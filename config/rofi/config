@@ -5,4 +5,4 @@ rofi.terminal: st
 rofi.lines: 8
 rofi.show-icons: true
 rofi.font: DankMono 20
-rofi.theme: /usr/share/rofi/themes/Monokai2.rasi
+rofi.theme: Monokai2.rasi

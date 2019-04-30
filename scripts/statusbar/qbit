@@ -1,5 +1,4 @@
 #!/bin/python3.7
-
 import requests as r
 from time import sleep
 

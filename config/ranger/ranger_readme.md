@@ -1,5 +1,3 @@
-# Luke's ranger setup
-
 ## Basic Ranger shortcuts
 
 These are the basic key binds in ranger, even outside of my configs. Note that they are mostly vim-based.
