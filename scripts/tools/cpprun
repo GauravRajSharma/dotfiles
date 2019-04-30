@@ -1,0 +1,7 @@
+#!/bin/sh
+
+g++ $1 -o /tmp/run199
+
+/tmp/run199 2>/dev/null
+
+rm /tmp/run199 2>/dev/null

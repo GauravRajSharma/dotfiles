@@ -1,0 +1,5 @@
+#!/bin/sh
+
+window=$(xdotool getactivewindow getwindowname)
+echo $window
+

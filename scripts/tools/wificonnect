@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nmcli con up DexterWifi_wlink

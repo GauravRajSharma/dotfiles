@@ -1,0 +1,19 @@
+#!/bin/sh
+
+total_packages=$(sudo ls /var/cache/pacman/pkg/ | wc -l)
+total_pac_size=$(du -sh /var/cache/pacman/pkg)
+
+echo " Purning unnecessary packages " &&
+	sudo paccache -r 2>/dev/null
+echo " Cleaning up old cached versions " &&
+	sudo paccache -rk 1 2>/dev/null
+echo " Removing all cached versions of uninstalled packages " &&
+	sudo paccage -ruk0 2>/dev/null
+echo " Cleaning Orphan Packages " &&
+	sudo pacman -Rsun $(pacman -Qqtd) 2>/dev/null
+
+final_packages=$(sudo ls /var/cache/pacman/pkg/ | wc -l)
+final_pac_size=$(du -sh /var/cache/pacman/pkg)
+
+echo " Initial Packages: $total_packages packages, $total_pac_size"
+echo " Final Packages: $final_packages packages, $final_pac_size"

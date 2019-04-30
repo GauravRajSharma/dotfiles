@@ -1,0 +1,25 @@
+# vim: filetype=conf
+bf	~/.config/bmfiles
+bd	~/.config/bmdirs
+cfb	~/.bashrc
+cfi	~/.config/i3/config
+cfp	~/.profile
+cfr	~/.config/ranger/rc.conf
+cfv	~/.vimrc
+cfz	~/.zshrc
+cfP	~/.config/polybar/config
+cfd	~/.Xdefaults
+cfu	~/.config/newsboat/urls
+cfn	~/.config/newsboat/config
+cfA	~/.asoundrc
+cfM	~/.config/mpd/mpd.conf
+fsa	~/.config/.fshalias
+cfzz	~/.config/zathura/zathurarc
+cfsx	~/.config/sxiv/exec/key-handler
+cfib	~/.config/i3blocks/config
+cfx	~/.Xresources
+cfmb	~/.config/ncmpcpp/bindings
+cfmc	~/.config/ncmpcpp/config
+cfml	~/.config/mimeapps.list
+cfdu	~/.config/dunst/dunstrc
+cfmpd	~/.config/mpd/mpd.conf

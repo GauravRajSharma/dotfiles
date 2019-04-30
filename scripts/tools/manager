@@ -1,0 +1,39 @@
+#!/bin/python
+import os
+from pathlib import Path
+'''
+Manager.py -> Management system for your files and folders [ Automated ]
+'''
+
+def main():
+    working_dir = "~/Downloads"
+    extension_ = {
+        "Media": {
+            "ext": ["mp4", "mkv", "jpeg", "webm", "webp", "jpg","png","gif"]
+        },
+        "Docs": {
+            "ext": ["pdf", "docx"]
+        },
+        "Torrents": {
+            "ext": ["torrent"]
+        },
+        "Compressed": {
+            "ext": ["gz", "xz", "tar", "deb", "zip"]
+        }
+    }
+
+    for key in extension_.keys():
+        if not os.system("mkdir %s/%s 2>/dev/null" % (working_dir, key)):
+            print("success")
+        else:
+            print("failed")
+    os.system("notify-send \"Done\" ")
+
+    for value in extension_:
+        for exts in extension_[value]["ext"]:
+            os.system('mv %s/*.%s %s/%s 2>/dev/null' %
+                      (working_dir, exts, working_dir, value))
+
+
+if __name__ == "__main__":
+    main()

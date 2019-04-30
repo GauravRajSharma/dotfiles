@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Cleaning Pacman Caches
+echo " Cleaning Pacman Caches " &&
+	pacclean
+
+# Cleaning " Purging yay cache " &&
+echo " Purging Yay Cache " &&
+	sudo rm -rf ~/.cache/yay 2>/dev/null
+
+# Bleach-bit "
+echo " Cleaning System Cache, Trash, Tmp " &&
+	sudo bleachbit --clean system.cache system.localizations system.trash system.tmp
+	sudo bleachbit --clean firefox.cache

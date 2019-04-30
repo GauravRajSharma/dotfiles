@@ -1,0 +1,4 @@
+#!/bin/fish
+for i in (awk '$2!="vim:" {print $2}' $argv)
+	abbr --erase $i
+end	2>/dev/null

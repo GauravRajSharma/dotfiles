@@ -1,0 +1,26 @@
+#!/bin/python3.7
+
+import requests as r
+from time import sleep
+
+
+def get_string(dl_speed, progress):
+    return f'⬇️ {int(dl_speed) * 10 ** -6 :{2}.{3}} MB/s 🚧 {progress:{2}.{3}}%'
+
+
+def main():
+    base_url = 'http://localhost:8080'
+    filter_params = {'filter': 'active'}
+    active_respone = r.get(
+        f'{base_url}/query/torrents', params=filter_params)
+    response_data = active_respone.json()
+    if response_data != []:
+        dl_speed, progress = response_data[0]['dlspeed'], response_data[0]['progress']
+        progress = float(progress) * 100
+        print(get_string(dl_speed, progress))
+    else:
+        print(get_string(0, 0.))
+
+
+if __name__ == "__main__":
+    main()

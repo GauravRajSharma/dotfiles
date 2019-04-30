@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -rf ~/.cache/chromium/*
+rm -rf ~/.cache/mozilla/firefox/larbs.default/*
+

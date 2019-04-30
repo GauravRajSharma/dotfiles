@@ -1,0 +1,4 @@
+#!/bin/sh
+
+[ -f /usr/bin/convert ] &&
+	convert $1 -blur 0x8 ~/.config/locked.png

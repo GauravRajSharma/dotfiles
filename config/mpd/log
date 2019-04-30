@@ -1,0 +1,2305 @@
+Feb 06 08:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:35 : exception: Failed to open '/home/larbs/.config/mpd/state': No such file or directory
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/01 Lana Del Rey - Born To Die.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/02 Lana Del Rey - Off To The Races.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/03 Lana Del Rey - Blue Jeans.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/04 Lana Del Rey - Video Games.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/05 Lana Del Rey - Diet Mountain Dew.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/06 Lana Del Rey - National Anthem.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/07 Lana Del Rey - Dark Paradise.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/08 Lana Del Rey - Radio.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/09 Lana Del Rey - Carmen.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/10 Lana Del Rey - Million Dollar Man.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/11 Lana Del Rey - Summertime Sadness.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/12 Lana Del Rey - This Is What Makes Us Girls.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/13 Lana Del Rey - Without You.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/14 Lana Del Rey - Lolita.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/15 Lana Del Rey - Lucky Ones.mp3
+Feb 06 08:35 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/01 Lana Del Rey - Ride.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/02 Lana Del Rey - American.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/03 Lana Del Rey - Cola.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/04 Lana Del Rey - Body Electric.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/05 Lana Del Rey - Blue Velvet.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/06 Lana Del Rey - Gods & Monsters.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/07 Lana Del Rey - Yayo.mp3
+Feb 06 08:35 : update: added Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 2/08 Lana Del Rey - Bel Air.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/17. Breakthru.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/01. Made In Heaven.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/02. A Kind Of Magic.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/03. Too Much Love Will Kill You.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/04. Bohemian Rhapsody.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/05. Another One Bites The Dust.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/06. Under Pressure.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/07. Killer Queen.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/08. Radio Ga Ga.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/09. Fat Bottomed Girls.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/10. I Want It All.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/11. Bicycle Race.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/12. I Want To Break Free.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/13. Innuendo.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/14. You're My Best Friend.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/15. Don't Stop Me Now.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/16. It's A Hard Life.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/18. Save Me.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/19. We Will Rock You.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/20. Crazy Little Thing Called Love.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/21. Who Wants To Live Forever.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/22. Headlong.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/23. Somebody To Love.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/24. Now I'm Here.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/25. The Miracle.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/26. Good Old Fashioned Lover Boy.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/27. I'm Going Slightly Mad.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/28. Play The Game.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/29. The Invisible Man.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/30. Flash.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/31. Hammer To Fall.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/32. Friends Will Be Friends.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/33. Seven Seas Of Rhye.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/34. One Vision.mp3
+Feb 06 08:35 : update: added Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/35. The Show Must Go On.mp3
+Feb 06 08:35 : update: added Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus
+Feb 06 08:35 : update: added Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus
+Feb 06 08:35 : client: [0] opened from 127.0.0.1:60442
+Feb 06 08:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:35 : client: [1] opened from 127.0.0.1:60446
+Feb 06 08:35 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/02. A Kind Of Magic.mp3"
+Feb 06 08:35 : client: [1] closed
+Feb 06 08:35 : client: [2] opened from 127.0.0.1:60450
+Feb 06 08:35 : client: [3] opened from 127.0.0.1:60454
+Feb 06 08:35 : exception: Not playing
+Feb 06 08:35 : client: [3] closed
+Feb 06 08:35 : client: [4] opened from 127.0.0.1:60458
+Feb 06 08:35 : exception: Not playing
+Feb 06 08:35 : client: [4] closed
+Feb 06 08:37 : client: [5] opened from 127.0.0.1:60592
+Feb 06 08:37 : client: [5] closed
+Feb 06 08:37 : client: [6] opened from 127.0.0.1:60596
+Feb 06 08:37 : client: [6] closed
+Feb 06 08:38 : client: [7] opened from 127.0.0.1:60600
+Feb 06 08:38 : client: [7] closed
+Feb 06 08:38 : client: [8] opened from 127.0.0.1:60604
+Feb 06 08:38 : client: [8] closed
+Feb 06 08:38 : client: [9] opened from 127.0.0.1:60608
+Feb 06 08:38 : client: [9] closed
+Feb 06 08:38 : client: [10] opened from 127.0.0.1:60614
+Feb 06 08:38 : client: [10] closed
+Feb 06 08:38 : client: [11] opened from 127.0.0.1:60618
+Feb 06 08:38 : client: [11] closed
+Feb 06 08:38 : client: [12] opened from 127.0.0.1:60622
+Feb 06 08:38 : client: [12] closed
+Feb 06 08:38 : client: [13] opened from 127.0.0.1:60626
+Feb 06 08:38 : client: [13] closed
+Feb 06 08:38 : client: [14] opened from 127.0.0.1:60630
+Feb 06 08:38 : client: [14] closed
+Feb 06 08:40 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 06 08:40 : client: [2] closed
+Feb 06 08:41 : client: [15] opened from 127.0.0.1:60638
+Feb 06 08:41 : client: [15] closed
+Feb 06 08:41 : client: [16] opened from 127.0.0.1:60642
+Feb 06 08:41 : client: [16] closed
+Feb 06 08:41 : client: [17] opened from 127.0.0.1:60646
+Feb 06 08:41 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 06 08:41 : client: [17] closed
+Feb 06 08:41 : client: [18] opened from 127.0.0.1:60650
+Feb 06 08:41 : client: [18] closed
+Feb 06 08:41 : client: [19] opened from 127.0.0.1:60654
+Feb 06 08:41 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 06 08:41 : client: [19] closed
+Feb 06 08:41 : client: [20] opened from 127.0.0.1:60658
+Feb 06 08:41 : client: [20] closed
+Feb 06 08:41 : client: [0] closed
+Feb 06 08:42 : client: [21] opened from 127.0.0.1:60666
+Feb 06 08:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:42 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 08:42 : client: [0] opened from 127.0.0.1:60676
+Feb 06 08:42 : client: [1] opened from 127.0.0.1:60682
+Feb 06 08:42 : client: [1] closed
+Feb 06 08:42 : client: [2] opened from 127.0.0.1:60686
+Feb 06 08:42 : client: [3] opened from 127.0.0.1:60690
+Feb 06 08:42 : client: [3] closed
+Feb 06 08:42 : client: [2] closed
+Feb 06 08:42 : client: [0] closed
+Feb 06 08:42 : client: [4] opened from 127.0.0.1:60694
+Feb 06 08:42 : client: [4] closed
+Feb 06 08:42 : client: [5] opened from 127.0.0.1:60698
+Feb 06 08:42 : client: [5] closed
+Feb 06 08:43 : client: [6] opened from 127.0.0.1:60768
+Feb 06 08:43 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:43 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:43 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:44 : client: [7] opened from 127.0.0.1:60774
+Feb 06 08:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 08:44 : client: [7] closed
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 06 08:45 : client: [6] closed
+Feb 06 08:46 : client: [8] opened from 127.0.0.1:60778
+Feb 06 08:46 : client: [8] closed
+Feb 06 08:46 : client: [9] opened from 127.0.0.1:60782
+Feb 06 08:46 : client: [9] closed
+Feb 06 08:46 : client: [10] opened from 127.0.0.1:60786
+Feb 06 08:46 : client: [10] closed
+Feb 06 08:46 : client: [11] opened from 127.0.0.1:60790
+Feb 06 08:46 : client: [11] closed
+Feb 06 08:47 : client: [12] opened from 127.0.0.1:60812
+Feb 06 08:47 : client: [12] closed
+Feb 06 09:23 : client: [13] opened from 127.0.0.1:32902
+Feb 06 09:23 : client: [13] closed
+Feb 06 09:23 : client: [14] opened from 127.0.0.1:32906
+Feb 06 09:23 : client: [14] closed
+Feb 06 09:23 : client: [15] opened from 127.0.0.1:32910
+Feb 06 09:23 : client: [15] closed
+Feb 06 09:23 : client: [16] opened from 127.0.0.1:32914
+Feb 06 09:23 : client: [16] closed
+Feb 06 09:23 : client: [17] opened from 127.0.0.1:32918
+Feb 06 09:23 : client: [17] closed
+Feb 06 09:23 : client: [18] opened from 127.0.0.1:32922
+Feb 06 09:23 : client: [18] closed
+Feb 06 09:23 : client: [19] opened from 127.0.0.1:32928
+Feb 06 09:23 : client: [19] closed
+Feb 06 09:23 : client: [20] opened from 127.0.0.1:32932
+Feb 06 09:23 : client: [20] closed
+Feb 06 09:24 : client: [21] opened from 127.0.0.1:32936
+Feb 06 09:24 : client: [21] closed
+Feb 06 09:24 : client: [22] opened from 127.0.0.1:32940
+Feb 06 09:24 : client: [22] closed
+Feb 06 09:24 : client: [23] opened from 127.0.0.1:32944
+Feb 06 09:24 : client: [23] closed
+Feb 06 09:24 : client: [24] opened from 127.0.0.1:32948
+Feb 06 09:24 : client: [24] closed
+Feb 06 09:24 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 06 09:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 09:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 09:27 : client: [0] opened from 127.0.0.1:54588
+Feb 06 09:27 : client: [1] opened from 127.0.0.1:54596
+Feb 06 09:27 : client: [1] closed
+Feb 06 09:27 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 09:27 : client: [2] opened from 127.0.0.1:54610
+Feb 06 09:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 09:27 : client: [0] closed
+Feb 06 09:27 : client: [2] closed
+Feb 06 09:27 : client: [3] opened from 127.0.0.1:54614
+Feb 06 09:27 : client: [4] opened from 127.0.0.1:54618
+Feb 06 09:27 : client: [4] closed
+Feb 06 09:27 : client: [5] opened from 127.0.0.1:54622
+Feb 06 09:27 : client: [3] closed
+Feb 06 09:27 : client: [5] closed
+Feb 06 09:27 : client: [6] opened from 127.0.0.1:54626
+Feb 06 09:27 : client: [6] closed
+Feb 06 09:27 : client: [7] opened from 127.0.0.1:54630
+Feb 06 09:27 : client: [8] opened from 127.0.0.1:54636
+Feb 06 09:27 : client: [7] closed
+Feb 06 09:27 : client: [8] closed
+Feb 06 09:27 : client: [9] opened from 127.0.0.1:54640
+Feb 06 09:27 : client: [10] opened from 127.0.0.1:54644
+Feb 06 09:27 : client: [9] closed
+Feb 06 09:27 : client: [11] opened from 127.0.0.1:54648
+Feb 06 09:27 : client: [10] closed
+Feb 06 09:27 : client: [11] closed
+Feb 06 09:27 : client: [12] opened from 127.0.0.1:54652
+Feb 06 09:27 : client: [13] opened from 127.0.0.1:54656
+Feb 06 09:27 : client: [12] closed
+Feb 06 09:27 : client: [14] opened from 127.0.0.1:54660
+Feb 06 09:27 : client: [13] closed
+Feb 06 09:27 : client: [14] closed
+Feb 06 09:27 : client: [15] opened from 127.0.0.1:54664
+Feb 06 09:27 : client: [16] opened from 127.0.0.1:54668
+Feb 06 09:27 : client: [15] closed
+Feb 06 09:27 : client: [17] opened from 127.0.0.1:54672
+Feb 06 09:27 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 06 09:27 : client: [16] closed
+Feb 06 09:27 : client: [17] closed
+Feb 06 09:27 : client: [18] opened from 127.0.0.1:54676
+Feb 06 09:27 : client: [18] closed
+Feb 06 09:27 : client: [19] opened from 127.0.0.1:54680
+Feb 06 09:27 : client: [20] opened from 127.0.0.1:54686
+Feb 06 09:27 : exception: Not playing
+Feb 06 09:27 : client: [20] closed
+Feb 06 09:27 : client: [21] opened from 127.0.0.1:54690
+Feb 06 09:27 : client: [21] closed
+Feb 06 09:27 : client: [19] closed
+Feb 06 09:27 : client: [22] opened from 127.0.0.1:54698
+Feb 06 09:27 : client: [23] opened from 127.0.0.1:54700
+Feb 06 09:27 : client: [22] closed
+Feb 06 09:27 : client: [24] opened from 127.0.0.1:54706
+Feb 06 09:27 : client: [23] closed
+Feb 06 09:27 : client: [24] closed
+Feb 06 09:27 : client: [25] opened from 127.0.0.1:54710
+Feb 06 09:27 : client: [25] closed
+Feb 06 09:27 : client: [26] opened from 127.0.0.1:54714
+Feb 06 09:27 : client: [27] opened from 127.0.0.1:54720
+Feb 06 09:27 : client: [26] closed
+Feb 06 09:27 : client: [27] closed
+Feb 06 09:27 : client: [28] opened from 127.0.0.1:54724
+Feb 06 09:27 : client: [29] opened from 127.0.0.1:54728
+Feb 06 09:27 : client: [28] closed
+Feb 06 09:27 : client: [30] opened from 127.0.0.1:54732
+Feb 06 09:27 : client: [29] closed
+Feb 06 09:27 : client: [30] closed
+Feb 06 09:27 : client: [31] opened from 127.0.0.1:54736
+Feb 06 09:27 : client: [32] opened from 127.0.0.1:54740
+Feb 06 09:27 : client: [32] closed
+Feb 06 09:27 : client: [33] opened from 127.0.0.1:54744
+Feb 06 09:27 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 06 09:27 : client: [31] closed
+Feb 06 09:27 : client: [33] closed
+Feb 06 09:27 : client: [34] opened from 127.0.0.1:54748
+Feb 06 09:27 : client: [34] closed
+Feb 06 09:27 : client: [35] opened from 127.0.0.1:54752
+Feb 06 09:27 : client: [36] opened from 127.0.0.1:54756
+Feb 06 09:27 : client: [35] closed
+Feb 06 09:27 : client: [36] closed
+Feb 06 09:27 : client: [37] opened from 127.0.0.1:54760
+Feb 06 09:27 : client: [37] closed
+Feb 06 09:27 : client: [38] opened from 127.0.0.1:54764
+Feb 06 09:27 : client: [39] opened from 127.0.0.1:54768
+Feb 06 09:27 : client: [38] closed
+Feb 06 09:27 : client: [39] closed
+Feb 06 09:27 : client: [40] opened from 127.0.0.1:54772
+Feb 06 09:27 : client: [41] opened from 127.0.0.1:54776
+Feb 06 09:27 : client: [40] closed
+Feb 06 09:27 : client: [42] opened from 127.0.0.1:54780
+Feb 06 09:27 : client: [41] closed
+Feb 06 09:27 : client: [42] closed
+Feb 06 09:27 : client: [43] opened from 127.0.0.1:54784
+Feb 06 09:27 : client: [44] opened from 127.0.0.1:54788
+Feb 06 09:27 : client: [43] closed
+Feb 06 09:27 : client: [45] opened from 127.0.0.1:54792
+Feb 06 09:27 : client: [44] closed
+Feb 06 09:27 : client: [45] closed
+Feb 06 09:27 : client: [46] opened from 127.0.0.1:54796
+Feb 06 09:27 : client: [46] closed
+Feb 06 09:27 : client: [47] opened from 127.0.0.1:54800
+Feb 06 09:28 : client: [48] opened from 127.0.0.1:54812
+Feb 06 09:28 : client: [47] closed
+Feb 06 09:28 : client: [48] closed
+Feb 06 09:28 : client: [49] opened from 127.0.0.1:54818
+Feb 06 09:28 : client: [50] opened from 127.0.0.1:54822
+Feb 06 09:28 : client: [49] closed
+Feb 06 09:28 : client: [51] opened from 127.0.0.1:54832
+Feb 06 09:28 : client: [50] closed
+Feb 06 09:28 : client: [51] closed
+Feb 06 09:28 : client: [52] opened from 127.0.0.1:54836
+Feb 06 09:28 : client: [52] closed
+Feb 06 09:28 : client: [53] opened from 127.0.0.1:54840
+Feb 06 09:28 : client: [54] opened from 127.0.0.1:54876
+Feb 06 09:28 : client: [53] closed
+Feb 06 09:28 : client: [54] closed
+Feb 06 09:28 : client: [55] opened from 127.0.0.1:54880
+Feb 06 09:28 : client: [56] opened from 127.0.0.1:54884
+Feb 06 09:28 : client: [55] closed
+Feb 06 09:28 : client: [57] opened from 127.0.0.1:54888
+Feb 06 09:28 : client: [56] closed
+Feb 06 09:28 : client: [57] closed
+Feb 06 09:28 : client: [58] opened from 127.0.0.1:54892
+Feb 06 09:28 : client: [59] opened from 127.0.0.1:54896
+Feb 06 09:28 : client: [58] closed
+Feb 06 09:28 : client: [60] opened from 127.0.0.1:54902
+Feb 06 09:28 : client: [59] closed
+Feb 06 09:28 : client: [60] closed
+Feb 06 09:28 : client: [61] opened from 127.0.0.1:54906
+Feb 06 09:28 : client: [62] opened from 127.0.0.1:54910
+Feb 06 09:28 : client: [61] closed
+Feb 06 09:28 : client: [63] opened from 127.0.0.1:54914
+Feb 06 09:28 : client: [62] closed
+Feb 06 09:28 : client: [63] closed
+Feb 06 09:28 : client: [64] opened from 127.0.0.1:54918
+Feb 06 09:28 : client: [65] opened from 127.0.0.1:54922
+Feb 06 09:28 : client: [64] closed
+Feb 06 09:28 : client: [66] opened from 127.0.0.1:54926
+Feb 06 09:29 : client: [65] closed
+Feb 06 09:29 : client: [67] opened from 127.0.0.1:54970
+Feb 06 09:29 : client: [68] opened from 127.0.0.1:54974
+Feb 06 09:29 : client: [67] closed
+Feb 06 09:29 : client: [68] closed
+Feb 06 09:29 : client: [69] opened from 127.0.0.1:54978
+Feb 06 09:29 : client: [70] opened from 127.0.0.1:54982
+Feb 06 09:29 : client: [69] closed
+Feb 06 09:29 : client: [71] opened from 127.0.0.1:54986
+Feb 06 09:29 : client: [70] closed
+Feb 06 09:29 : client: [71] closed
+Feb 06 09:29 : client: [72] opened from 127.0.0.1:54990
+Feb 06 09:29 : client: [73] opened from 127.0.0.1:54994
+Feb 06 09:29 : client: [73] closed
+Feb 06 09:29 : client: [74] opened from 127.0.0.1:54998
+Feb 06 09:29 : client: [72] closed
+Feb 06 09:29 : client: [74] closed
+Feb 06 09:29 : client: [75] opened from 127.0.0.1:55002
+Feb 06 09:29 : client: [75] closed
+Feb 06 09:29 : client: [76] opened from 127.0.0.1:55006
+Feb 06 09:29 : client: [77] opened from 127.0.0.1:55010
+Feb 06 09:29 : client: [76] closed
+Feb 06 09:29 : client: [77] closed
+Feb 06 09:29 : client: [78] opened from 127.0.0.1:55014
+Feb 06 09:29 : client: [79] opened from 127.0.0.1:55018
+Feb 06 09:29 : client: [79] closed
+Feb 06 09:29 : client: [80] opened from 127.0.0.1:55022
+Feb 06 09:29 : client: [78] closed
+Feb 06 09:29 : client: [80] closed
+Feb 06 09:29 : client: [81] opened from 127.0.0.1:55026
+Feb 06 09:29 : client: [81] closed
+Feb 06 09:29 : client: [82] opened from 127.0.0.1:55030
+Feb 06 09:29 : client: [83] opened from 127.0.0.1:55034
+Feb 06 09:29 : client: [82] closed
+Feb 06 09:29 : client: [83] closed
+Feb 06 09:29 : client: [84] opened from 127.0.0.1:55038
+Feb 06 09:29 : client: [84] closed
+Feb 06 09:29 : client: [85] opened from 127.0.0.1:55042
+Feb 06 09:29 : client: [86] opened from 127.0.0.1:55046
+Feb 06 09:29 : client: [85] closed
+Feb 06 09:29 : client: [86] closed
+Feb 06 09:29 : client: [87] opened from 127.0.0.1:55050
+Feb 06 09:29 : client: [88] opened from 127.0.0.1:55054
+Feb 06 09:29 : client: [87] closed
+Feb 06 09:29 : client: [89] opened from 127.0.0.1:55058
+Feb 06 09:29 : client: [88] closed
+Feb 06 09:29 : client: [89] closed
+Feb 06 09:29 : client: [90] opened from 127.0.0.1:55062
+Feb 06 09:29 : client: [91] opened from 127.0.0.1:55066
+Feb 06 09:29 : client: [90] closed
+Feb 06 09:29 : client: [92] opened from 127.0.0.1:55070
+Feb 06 09:29 : client: [91] closed
+Feb 06 09:29 : client: [92] closed
+Feb 06 09:29 : client: [93] opened from 127.0.0.1:55074
+Feb 06 09:29 : client: [94] opened from 127.0.0.1:55078
+Feb 06 09:29 : client: [93] closed
+Feb 06 09:29 : client: [95] opened from 127.0.0.1:55082
+Feb 06 09:29 : client: [94] closed
+Feb 06 09:29 : client: [95] closed
+Feb 06 09:29 : client: [96] opened from 127.0.0.1:55086
+Feb 06 09:29 : client: [96] closed
+Feb 06 09:29 : client: [97] opened from 127.0.0.1:55090
+Feb 06 09:30 : client: [66] closed
+Feb 06 09:30 : client: [98] opened from 127.0.0.1:55094
+Feb 06 09:30 : client: [97] closed
+Feb 06 09:30 : client: [98] closed
+Feb 06 09:30 : client: [99] opened from 127.0.0.1:55098
+Feb 06 09:30 : client: [100] opened from 127.0.0.1:55102
+Feb 06 09:30 : client: [99] closed
+Feb 06 09:30 : client: [101] opened from 127.0.0.1:55106
+Feb 06 09:30 : client: [100] closed
+Feb 06 09:30 : client: [102] opened from 127.0.0.1:55110
+Feb 06 09:30 : client: [103] opened from 127.0.0.1:55114
+Feb 06 09:30 : client: [102] closed
+Feb 06 09:30 : client: [103] closed
+Feb 06 09:30 : client: [104] opened from 127.0.0.1:55118
+Feb 06 09:30 : client: [105] opened from 127.0.0.1:55122
+Feb 06 09:30 : client: [104] closed
+Feb 06 09:30 : client: [105] closed
+Feb 06 09:30 : client: [106] opened from 127.0.0.1:55126
+Feb 06 09:30 : client: [107] opened from 127.0.0.1:55130
+Feb 06 09:30 : client: [106] closed
+Feb 06 09:30 : client: [101] closed
+Feb 06 09:30 : client: [108] opened from 127.0.0.1:55134
+Feb 06 09:30 : client: [107] closed
+Feb 06 09:30 : client: [108] closed
+Feb 06 09:30 : client: [109] opened from 127.0.0.1:55138
+Feb 06 09:30 : client: [110] opened from 127.0.0.1:55142
+Feb 06 09:30 : client: [109] closed
+Feb 06 09:30 : client: [111] opened from 127.0.0.1:55146
+Feb 06 09:30 : client: [110] closed
+Feb 06 09:30 : client: [111] closed
+Feb 06 09:30 : client: [112] opened from 127.0.0.1:55150
+Feb 06 09:30 : client: [113] opened from 127.0.0.1:55154
+Feb 06 09:30 : client: [112] closed
+Feb 06 09:30 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 06 09:30 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 06 14:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 14:37 : client: [0] opened from 127.0.0.1:54196
+Feb 06 14:37 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 14:37 : client: [1] opened from 127.0.0.1:54202
+Feb 06 14:37 : client: [1] closed
+Feb 06 14:37 : client: [2] opened from 127.0.0.1:54210
+Feb 06 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 14:37 : client: [0] closed
+Feb 06 14:37 : client: [2] closed
+Feb 06 14:37 : client: [3] opened from 127.0.0.1:54214
+Feb 06 14:37 : client: [4] opened from 127.0.0.1:54218
+Feb 06 14:37 : client: [3] closed
+Feb 06 14:37 : client: [5] opened from 127.0.0.1:54222
+Feb 06 14:37 : client: [4] closed
+Feb 06 14:37 : client: [5] closed
+Feb 06 14:37 : client: [6] opened from 127.0.0.1:54226
+Feb 06 14:37 : client: [7] opened from 127.0.0.1:54230
+Feb 06 14:37 : client: [6] closed
+Feb 06 14:37 : client: [8] opened from 127.0.0.1:54234
+Feb 06 14:37 : client: [7] closed
+Feb 06 14:37 : client: [8] closed
+Feb 06 14:37 : client: [9] opened from 127.0.0.1:54238
+Feb 06 14:37 : client: [9] closed
+Feb 06 14:37 : client: [10] opened from 127.0.0.1:54242
+Feb 06 14:37 : client: [11] opened from 127.0.0.1:54248
+Feb 06 14:37 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 06 14:37 : client: [10] closed
+Feb 06 14:37 : client: [11] closed
+Feb 06 14:37 : client: [12] opened from 127.0.0.1:54252
+Feb 06 14:37 : client: [12] closed
+Feb 06 14:37 : client: [13] opened from 127.0.0.1:54256
+Feb 06 14:37 : client: [14] opened from 127.0.0.1:54260
+Feb 06 14:37 : client: [14] closed
+Feb 06 14:37 : client: [13] closed
+Feb 06 14:37 : client: [15] opened from 127.0.0.1:54264
+Feb 06 14:37 : client: [16] opened from 127.0.0.1:54268
+Feb 06 14:37 : client: [15] closed
+Feb 06 14:37 : client: [17] opened from 127.0.0.1:54272
+Feb 06 14:37 : client: [16] closed
+Feb 06 14:37 : client: [17] closed
+Feb 06 14:37 : client: [18] opened from 127.0.0.1:54276
+Feb 06 14:37 : client: [18] closed
+Feb 06 14:37 : client: [19] opened from 127.0.0.1:54280
+Feb 06 14:37 : client: [20] opened from 127.0.0.1:54284
+Feb 06 14:37 : client: [19] closed
+Feb 06 14:37 : client: [20] closed
+Feb 06 14:37 : client: [21] opened from 127.0.0.1:54288
+Feb 06 14:37 : client: [21] closed
+Feb 06 14:37 : client: [22] opened from 127.0.0.1:54292
+Feb 06 14:37 : client: [23] opened from 127.0.0.1:54298
+Feb 06 14:37 : client: [22] closed
+Feb 06 14:37 : client: [23] closed
+Feb 06 14:37 : client: [24] opened from 127.0.0.1:54302
+Feb 06 14:37 : client: [25] opened from 127.0.0.1:54306
+Feb 06 14:37 : client: [24] closed
+Feb 06 14:37 : client: [26] opened from 127.0.0.1:54310
+Feb 06 14:37 : client: [25] closed
+Feb 06 14:37 : client: [26] closed
+Feb 06 14:37 : client: [27] opened from 127.0.0.1:54314
+Feb 06 14:37 : client: [28] opened from 127.0.0.1:54318
+Feb 06 14:37 : client: [27] closed
+Feb 06 14:39 : client: [29] opened from 127.0.0.1:54550
+Feb 06 14:39 : client: [28] closed
+Feb 06 14:39 : client: [29] closed
+Feb 06 14:39 : client: [30] opened from 127.0.0.1:54554
+Feb 06 14:39 : client: [31] opened from 127.0.0.1:54558
+Feb 06 14:39 : client: [30] closed
+Feb 06 14:39 : client: [32] opened from 127.0.0.1:54562
+Feb 06 14:39 : client: [31] closed
+Feb 06 14:39 : client: [32] closed
+Feb 06 14:39 : client: [33] opened from 127.0.0.1:54566
+Feb 06 14:39 : client: [33] closed
+Feb 06 14:39 : client: [34] opened from 127.0.0.1:54570
+Feb 06 14:39 : client: [35] opened from 127.0.0.1:54574
+Feb 06 14:39 : client: [35] closed
+Feb 06 14:39 : client: [36] opened from 127.0.0.1:54578
+Feb 06 14:39 : client: [37] opened from 127.0.0.1:54582
+Feb 06 14:39 : client: [37] closed
+Feb 06 14:39 : client: [36] closed
+Feb 06 14:39 : client: [38] opened from 127.0.0.1:54586
+Feb 06 14:39 : client: [38] closed
+Feb 06 14:39 : client: [39] opened from 127.0.0.1:54590
+Feb 06 14:39 : client: [39] closed
+Feb 06 14:39 : client: [40] opened from 127.0.0.1:54594
+Feb 06 14:39 : client: [41] opened from 127.0.0.1:54598
+Feb 06 14:39 : client: [41] closed
+Feb 06 14:39 : client: [40] closed
+Feb 06 14:39 : client: [42] opened from 127.0.0.1:54602
+Feb 06 14:39 : client: [42] closed
+Feb 06 14:39 : client: [43] opened from 127.0.0.1:54606
+Feb 06 14:39 : client: [43] closed
+Feb 06 14:39 : client: [44] opened from 127.0.0.1:54610
+Feb 06 14:39 : client: [34] closed
+Feb 06 14:39 : client: [45] opened from 127.0.0.1:54614
+Feb 06 14:39 : client: [46] opened from 127.0.0.1:54618
+Feb 06 14:39 : client: [45] closed
+Feb 06 14:39 : client: [46] closed
+Feb 06 14:39 : client: [47] opened from 127.0.0.1:54622
+Feb 06 14:39 : client: [48] opened from 127.0.0.1:54626
+Feb 06 14:39 : client: [47] closed
+Feb 06 14:39 : client: [44] closed
+Feb 06 14:39 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/02 Lana Del Rey - Off To The Races.mp3"
+Feb 06 18:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:24 : client: [0] opened from 127.0.0.1:56962
+Feb 06 18:24 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 18:24 : client: [1] opened from 127.0.0.1:56970
+Feb 06 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:24 : client: [1] closed
+Feb 06 18:24 : client: [2] opened from 127.0.0.1:56978
+Feb 06 18:24 : client: [2] closed
+Feb 06 18:24 : client: [3] opened from 127.0.0.1:56984
+Feb 06 18:24 : client: [3] closed
+Feb 06 18:24 : client: [4] opened from 127.0.0.1:56992
+Feb 06 18:24 : client: [4] closed
+Feb 06 18:25 : client: [5] opened from 127.0.0.1:57008
+Feb 06 18:25 : client: [5] closed
+Feb 06 18:25 : client: [6] opened from 127.0.0.1:57012
+Feb 06 18:25 : client: [6] closed
+Feb 06 18:25 : client: [7] opened from 127.0.0.1:57016
+Feb 06 18:25 : client: [7] closed
+Feb 06 18:25 : client: [8] opened from 127.0.0.1:57022
+Feb 06 18:25 : client: [8] closed
+Feb 06 18:25 : client: [9] opened from 127.0.0.1:57026
+Feb 06 18:25 : client: [9] closed
+Feb 06 18:25 : client: [10] opened from 127.0.0.1:57030
+Feb 06 18:25 : client: [10] closed
+Feb 06 18:27 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/02 Lana Del Rey - Off To The Races.mp3"
+Feb 06 18:27 : client: [11] opened from 127.0.0.1:57144
+Feb 06 18:27 : client: [11] closed
+Feb 06 18:27 : client: [12] opened from 127.0.0.1:57148
+Feb 06 18:27 : client: [12] closed
+Feb 06 18:27 : client: [13] opened from 127.0.0.1:57154
+Feb 06 18:27 : client: [13] closed
+Feb 06 18:28 : client: [0] closed
+Feb 06 18:28 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 06 18:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:33 : client: [0] opened from 127.0.0.1:57202
+Feb 06 18:33 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 06 18:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 18:33 : client: [1] opened from 127.0.0.1:57206
+Feb 06 18:33 : client: [1] closed
+Feb 06 18:33 : client: [2] opened from 127.0.0.1:57210
+Feb 06 18:33 : client: [2] closed
+Feb 06 18:33 : client: [3] opened from 127.0.0.1:57214
+Feb 06 18:33 : client: [3] closed
+Feb 06 18:33 : client: [4] opened from 127.0.0.1:57218
+Feb 06 18:33 : client: [4] closed
+Feb 06 18:34 : client: [0] closed
+Feb 06 18:34 : client: [5] opened from 127.0.0.1:57222
+Feb 06 18:34 : client: [5] closed
+Feb 06 18:40 : client: [6] opened from 127.0.0.1:57236
+Feb 06 18:40 : client: [7] opened from 127.0.0.1:57240
+Feb 06 18:40 : client: [7] closed
+Feb 06 18:41 : client: [8] opened from 127.0.0.1:57244
+Feb 06 18:41 : client: [8] closed
+Feb 06 18:41 : client: [9] opened from 127.0.0.1:57248
+Feb 06 18:41 : client: [9] closed
+Feb 06 18:41 : client: [10] opened from 127.0.0.1:57252
+Feb 06 18:41 : client: [10] closed
+Feb 06 18:42 : client: [11] opened from 127.0.0.1:57256
+Feb 06 18:42 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/03 Lana Del Rey - Blue Jeans.mp3"
+Feb 06 18:42 : client: [11] closed
+Feb 06 18:42 : client: [12] opened from 127.0.0.1:57260
+Feb 06 18:42 : exception: Not playing
+Feb 06 18:42 : client: [12] closed
+Feb 06 18:42 : client: [13] opened from 127.0.0.1:57264
+Feb 06 18:42 : client: [13] closed
+Feb 06 18:42 : client: [6] closed
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 01 - The Boy Who Lived.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 02 - The Vanishing Glass.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 03 - The Letters From No One.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 05 - Diagon Alley.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 06 - The Journey From Platform Nine and Three Quarters.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 07 - The Sorting Hat.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 08 - The Potions Master.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 09 - The Midnight Duel.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 10 - Hallowe'en.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 11 - Quidditch.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 13 - Nicolas Flamel.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 14 - Norbert the Norwegian Ridgeback.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 15 - The Forbidden Forest.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 16 -Through the Trapdoor.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 17 - The Man With Two Faces.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 01 - The Worst Birthday.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 02 - Dobby's Warning.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 03 - The Burrow.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 04 - At Flourish and Blotts.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 05 - The Whomping Willow.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 06 - Gilderoy Lockhart.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 07 - Mudbloods and Murmurs.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 08 - The Deathday Party.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 09 - The Writing on the Wall.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 10 - The Rogue Bludger.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 11 - The Duelling Club.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 12 - The Polyjuice Potion.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 13 - The Very Secret Diary.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 14 - Cornelius Fudge.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 15 - Aragog.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 16 - The Chamber of Secrets.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 17 - The Heir of Slytherin.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 18 - Dobby's Reward.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 01 - Owl Post.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 02 - Aunt Marge's Big Mistake.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 03 - The Knight Bus.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 04 - The Leaky Cauldron.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 05 - The Dementor.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 06 - Talons And Tea Leaves.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 07 - The Boggart In The Wardrobe.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 08 - Flight Of The Fat Lady.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 09 - Grim Defeat.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 10 - The Marauder's Map.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 11 - The Firebolt.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 12 - The Patronus.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 13 - Gryffindor versus Ravenclaw.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 14 - Snape's Grudge.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 15 - The Quidditch Final.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 16 - Professor Trelawney's Prediction.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 17 - Cat Rat And Dog.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 18 - Moony Wormtail Padfoot and Prongs.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 19 - The Servant of the Lord Voldemort.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 20 - The Dementors Kiss.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 21 - Hermione's Secret.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 03 - Harry Potter and the Prisoner of Azkaban/Chapter 22 - Owl Post Again.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 19 - The Hungarian Horntail.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 01 - The Riddle House.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 02 - The Scar.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 03 - The Invitation.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 04 - Back to the Burrow.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 05 - Weasley's Wizarding Wheezes.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 06 - The Portkey.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 07 - Bagman and Crouch.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 08 - The Quidditch World Cup.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 09 - The Dark Mark.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 10 - Mayhem at the Ministry.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 11 - Aboard the Hogwarts Express.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 12 - The Triwizard Tournament.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 13 - Mad Eye Moody.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 14 - The Unforgivable Curses.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 15 - Beauxbatons and Durmstrang.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 16 - The Goblet of Fire.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 17 - The Four Champions.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 18 - The Weighing of the Wands.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 20 - The First Task.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 21 - The House Elf Liberation Front.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 22 - The Unexpected Task.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 23 - The Yule Ball.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 24 - Rita Skeeter's Scoop.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 25 - The Egg and the Eye.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 26 - The Second Task.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 27 - Padfoot Returns.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 28 - The Madness of Mr Crouch.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 29 - The Dream.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 30 - The Pensieve.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 31 - The Third Task.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 32 - Flesh Blood and Bone.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 33 - The Death Eaters.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 34 - Priori Incantatem.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 35 - Veritaserum.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 36 - The Parting of the Ways.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 04 - Harry Potter and the Goblet of Fire/Chapter 37 - The Beginning.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 21 - The Eye of the Snake.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 01 - Dudley Demented.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 02 - A Peck of Owls.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 03 - The Advance Guard.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 04 - Number Twelve Grimmauld Place.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 05 - The Order of the Phoenix.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 06 - The Noble and Most Ancient House of Black.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 07 - The Ministry of Magic.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 08 - The Hearing.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 09 - The Woes of Mrs. Weasley.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 10 - Luna Lovegood.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 11 - The Sorting Hat's New Song.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 12 - Professor Umbridge.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 13 - Detention With Dolores.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 14 - Percy and Padfoot.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 15 - The Hogwarts High Inquisitor.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 16 - In The Hog's Head.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 17 - Educational Decree Number Twenty-Four.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 18 - Dumbledore's Army.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 19 - The Lion and the Serpent.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 20 - Hagrid's Tale.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 22 - St. Mungo's Hospital for Magical Maladies and Injuries.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 23 - Christmas on the Closed Ward.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 24 - Occlumency.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 25 - The Beetle at Bay.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 26 - Seen and Unforeseen.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 27 - The Centaur and the Sneak.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 28 - Snape's Worst Memory.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 29 - Career Advice.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 30 - Grawp.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 31 - O.W.L.S.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 32 - Out of the Fire.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 33 - Fight and Flight.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 34 - The Department of Mysteries.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 35 - Beyond the Veil.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 36 - The Only One He Ever Feared.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 37 - The Lost Prophecy.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 05 - Harry Potter and the Order of the Phoenix/Chapter 38 - The Second War Begins.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 14 - Felix Felicis.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 01 - The Other Minister.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 02 - Spinner's End.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 03 - Will and Won't.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 04 - Horace Slughorn.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 05 - An Excess of Phlegm.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 06 - Draco's Detour.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 07 - The Slug Club.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 08 - Snape Victorious.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 09 - The Half-Blood Prince.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 10 - The House of Gaunt.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 11 - Hermione’s Helping Hand.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 12 - Silver and Opals.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 13 - The Secret Riddle.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 15 - The Unbreakable Vow.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 16 - A Very Frosty Christmas.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 17 - A Sluggish Memory.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 18 - Birthday Surprises.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 19 - Elf Tails.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 20 - Lord Voldemort’s Request.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 21 - The Unknowable Room.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 22 - After the Burial.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 23 - Horcruxes.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 24 - Sectumsempra.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 25 - The Seer Overhead.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 26 - The Cave.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 27 - The Lightning-Struck Tower.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 28 - Flight of the Prince.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 29 - The Phoenix Lament.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 06 - Harry Potter and the Half-Blood Prince/Chapter 30 - The White Tomb.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 20 - Xenophilius Lovegood.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 01 - The Dark Lord Ascending.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 02 - In Memoriam.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 03 - The Dursleys Departing.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 04 - The Seven Potters.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 05 - Fallen Warrior.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 06 - The Goul in Pajamas.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 07 - The Will of Albus Dumbledore.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 08 - The Wedding.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 09 - A Place to Hide.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 10 - Kreacher's Tale.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 11 - The Bribe.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 12 - Magic is Might.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 13 - The Muggle-born Registration Commission.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 14 - The Thief.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 15 - The Goblin's Revenge.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 16 - Godric's Hollow.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 17 - Bathilda's Secret.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 18 - The Life and Lies of Albus Dumbledore.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 19 - The Silver Doe.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 21 - The Tale of the Three Borthers.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 22 - The Deathly Hallows.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 23 - Malfoy Manor.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 24 - The Wandmaker.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 25 - Shell Cottage.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 26 - Gringotts.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 27 - The Final Hiding Place.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 28 - The Missing Mirror.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 29 - The Lost Diadem.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 30 - The Sacking of Severus Snape.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 31 - The Battle of Hogwarts.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 32 - The Elder Wand.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 33 - The Prince's Tale.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 34 - The Forest Again.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 35 - King's Cross.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Chapter 36 - The Flaw in the Plan.mp3
+Feb 06 18:43 : update: added Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 07 - Harry Potter and the Deathly Hallows/Epilogue - Nineteen Years Later.mp3
+Feb 06 18:43 : client: [14] opened from 127.0.0.1:57268
+Feb 06 18:43 : client: [14] closed
+Feb 06 18:43 : client: [15] opened from 127.0.0.1:57272
+Feb 06 18:43 : client: [15] closed
+Feb 06 18:43 : client: [16] opened from 127.0.0.1:57276
+Feb 06 18:43 : client: [16] closed
+Feb 06 18:44 : client: [17] opened from 127.0.0.1:57280
+Feb 06 18:44 : client: [17] closed
+Feb 06 18:44 : client: [18] opened from 127.0.0.1:57284
+Feb 06 18:44 : client: [18] closed
+Feb 06 18:44 : client: [19] opened from 127.0.0.1:57288
+Feb 06 18:44 : client: [19] closed
+Feb 06 18:44 : client: [20] opened from 127.0.0.1:57292
+Feb 06 18:44 : client: [20] closed
+Feb 06 18:44 : client: [21] opened from 127.0.0.1:57296
+Feb 06 18:44 : client: [21] closed
+Feb 06 18:44 : client: [22] opened from 127.0.0.1:57300
+Feb 06 18:44 : client: [22] closed
+Feb 06 18:45 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/02. A Kind Of Magic.mp3"
+Feb 06 18:47 : client: [23] opened from 127.0.0.1:57308
+Feb 06 18:47 : client: [24] opened from 127.0.0.1:57312
+Feb 06 18:47 : client: [24] closed
+Feb 06 18:47 : client: [25] opened from 127.0.0.1:57316
+Feb 06 18:47 : client: [25] closed
+Feb 06 18:47 : client: [26] opened from 127.0.0.1:57320
+Feb 06 18:47 : client: [26] closed
+Feb 06 18:47 : client: [27] opened from 127.0.0.1:57324
+Feb 06 18:47 : client: [23] closed
+Feb 06 18:47 : client: [27] closed
+Feb 06 18:47 : client: [28] opened from 127.0.0.1:57328
+Feb 06 18:47 : client: [29] opened from 127.0.0.1:57332
+Feb 06 18:47 : client: [28] closed
+Feb 06 18:47 : client: [30] opened from 127.0.0.1:57336
+Feb 06 18:47 : client: [30] closed
+Feb 06 18:47 : client: [31] opened from 127.0.0.1:57340
+Feb 06 18:47 : client: [29] closed
+Feb 06 18:47 : client: [31] closed
+Feb 06 18:47 : client: [32] opened from 127.0.0.1:57344
+Feb 06 18:47 : client: [32] closed
+Feb 06 18:47 : client: [33] opened from 127.0.0.1:57348
+Feb 06 18:49 : client: [34] opened from 127.0.0.1:57352
+Feb 06 18:49 : client: [33] closed
+Feb 06 18:49 : client: [34] closed
+Feb 06 18:49 : client: [35] opened from 127.0.0.1:57356
+Feb 06 18:49 : client: [36] opened from 127.0.0.1:57360
+Feb 06 18:49 : client: [35] closed
+Feb 06 18:49 : client: [37] opened from 127.0.0.1:57364
+Feb 06 18:49 : client: [37] closed
+Feb 06 18:49 : client: [38] opened from 127.0.0.1:57368
+Feb 06 18:49 : client: [36] closed
+Feb 06 18:49 : client: [38] closed
+Feb 06 18:49 : client: [39] opened from 127.0.0.1:57372
+Feb 06 18:49 : client: [40] opened from 127.0.0.1:57376
+Feb 06 18:49 : client: [39] closed
+Feb 06 18:50 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/01 Lana Del Rey - Born To Die.mp3"
+Feb 06 18:50 : client: [40] closed
+Feb 06 18:50 : client: [41] opened from 127.0.0.1:57380
+Feb 06 18:50 : client: [42] opened from 127.0.0.1:57384
+Feb 06 18:50 : client: [41] closed
+Feb 06 18:52 : client: [43] opened from 127.0.0.1:57388
+Feb 06 18:52 : client: [42] closed
+Feb 06 18:52 : client: [43] closed
+Feb 06 18:52 : client: [44] opened from 127.0.0.1:57392
+Feb 06 18:52 : client: [45] opened from 127.0.0.1:57396
+Feb 06 18:52 : client: [44] closed
+Feb 06 18:52 : client: [46] opened from 127.0.0.1:57400
+Feb 06 18:52 : client: [45] closed
+Feb 06 18:52 : client: [46] closed
+Feb 06 18:52 : client: [47] opened from 127.0.0.1:57404
+Feb 06 18:52 : client: [48] opened from 127.0.0.1:57408
+Feb 06 18:52 : client: [47] closed
+Feb 06 18:55 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/02 Lana Del Rey - Off To The Races.mp3"
+Feb 06 18:55 : client: [48] closed
+Feb 06 18:55 : client: [49] opened from 127.0.0.1:57666
+Feb 06 18:55 : client: [49] closed
+Feb 06 18:55 : client: [50] opened from 127.0.0.1:57670
+Feb 06 18:55 : client: [51] opened from 127.0.0.1:57674
+Feb 06 18:55 : client: [50] closed
+Feb 06 18:55 : client: [51] closed
+Feb 06 18:55 : client: [52] opened from 127.0.0.1:57678
+Feb 06 18:55 : client: [53] opened from 127.0.0.1:57682
+Feb 06 18:55 : client: [52] closed
+Feb 06 19:17 : client: [54] opened from 127.0.0.1:58136
+Feb 06 19:17 : client: [53] closed
+Feb 06 19:17 : client: [54] closed
+Feb 06 19:17 : client: [55] opened from 127.0.0.1:58140
+Feb 06 19:17 : client: [56] opened from 127.0.0.1:58144
+Feb 06 19:17 : client: [56] closed
+Feb 06 19:17 : client: [57] opened from 127.0.0.1:58148
+Feb 06 19:17 : client: [55] closed
+Feb 06 19:17 : client: [57] closed
+Feb 06 19:17 : client: [58] opened from 127.0.0.1:58152
+Feb 06 19:17 : client: [59] opened from 127.0.0.1:58156
+Feb 06 19:17 : client: [58] closed
+Feb 06 19:19 : client: [60] opened from 127.0.0.1:58310
+Feb 06 19:19 : client: [60] closed
+Feb 06 19:19 : client: [61] opened from 127.0.0.1:58316
+Feb 06 19:19 : client: [61] closed
+Feb 06 20:06 : client: [62] opened from 127.0.0.1:59066
+Feb 06 20:06 : client: [62] closed
+Feb 06 20:06 : client: [63] opened from 127.0.0.1:59070
+Feb 06 20:06 : client: [63] closed
+Feb 06 20:12 : client: [64] opened from 127.0.0.1:59200
+Feb 06 20:12 : client: [64] closed
+Feb 06 20:12 : client: [65] opened from 127.0.0.1:59204
+Feb 06 20:12 : client: [65] closed
+Feb 06 20:18 : client: [66] opened from 127.0.0.1:59252
+Feb 06 20:18 : client: [66] closed
+Feb 06 20:18 : client: [67] opened from 127.0.0.1:59256
+Feb 06 20:18 : client: [67] closed
+Feb 06 20:29 : client: [68] opened from 127.0.0.1:59500
+Feb 06 20:29 : client: [68] closed
+Feb 06 20:29 : client: [69] opened from 127.0.0.1:59504
+Feb 06 20:29 : client: [69] closed
+Feb 06 20:29 : client: [70] opened from 127.0.0.1:59510
+Feb 06 20:29 : client: [70] closed
+Feb 06 20:29 : client: [71] opened from 127.0.0.1:59514
+Feb 06 20:29 : client: [71] closed
+Feb 06 20:42 : client: [72] opened from 127.0.0.1:59558
+Feb 06 20:42 : client: [72] closed
+Feb 06 20:42 : client: [73] opened from 127.0.0.1:59562
+Feb 06 20:42 : client: [73] closed
+Feb 06 21:02 : client: [74] opened from 127.0.0.1:60032
+Feb 06 21:02 : client: [59] closed
+Feb 06 21:02 : client: [74] closed
+Feb 06 21:02 : client: [75] opened from 127.0.0.1:60036
+Feb 06 21:02 : client: [75] closed
+Feb 06 21:02 : client: [76] opened from 127.0.0.1:60040
+Feb 06 21:02 : client: [77] opened from 127.0.0.1:60048
+Feb 06 21:02 : client: [76] closed
+Feb 06 21:02 : client: [77] closed
+Feb 06 21:02 : client: [78] opened from 127.0.0.1:60052
+Feb 06 21:02 : client: [79] opened from 127.0.0.1:60056
+Feb 06 21:02 : client: [78] closed
+Feb 06 21:02 : client: [80] opened from 127.0.0.1:60060
+Feb 06 21:02 : client: [79] closed
+Feb 06 21:02 : client: [81] opened from 127.0.0.1:60064
+Feb 06 21:02 : client: [82] opened from 127.0.0.1:60068
+Feb 06 21:02 : client: [81] closed
+Feb 06 21:02 : client: [82] closed
+Feb 06 21:02 : client: [83] opened from 127.0.0.1:60072
+Feb 06 21:02 : client: [84] opened from 127.0.0.1:60076
+Feb 06 21:02 : client: [83] closed
+Feb 06 21:02 : client: [84] closed
+Feb 06 21:02 : client: [85] opened from 127.0.0.1:60080
+Feb 06 21:02 : client: [86] opened from 127.0.0.1:60084
+Feb 06 21:02 : client: [85] closed
+Feb 06 21:02 : client: [86] closed
+Feb 06 21:02 : client: [87] opened from 127.0.0.1:60088
+Feb 06 21:02 : client: [88] opened from 127.0.0.1:60092
+Feb 06 21:02 : client: [87] closed
+Feb 06 21:02 : client: [88] closed
+Feb 06 21:02 : client: [89] opened from 127.0.0.1:60096
+Feb 06 21:02 : client: [90] opened from 127.0.0.1:60100
+Feb 06 21:02 : client: [89] closed
+Feb 06 21:02 : client: [91] opened from 127.0.0.1:60104
+Feb 06 21:02 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 01 - The Worst Birthday.mp3"
+Feb 06 21:02 : client: [90] closed
+Feb 06 21:02 : client: [91] closed
+Feb 06 21:02 : client: [92] opened from 127.0.0.1:60108
+Feb 06 21:02 : client: [92] closed
+Feb 06 21:02 : client: [93] opened from 127.0.0.1:60112
+Feb 06 21:02 : client: [93] closed
+Feb 06 21:02 : client: [94] opened from 127.0.0.1:60116
+Feb 06 21:02 : client: [95] opened from 127.0.0.1:60120
+Feb 06 21:02 : client: [94] closed
+Feb 06 21:02 : client: [96] opened from 127.0.0.1:60124
+Feb 06 21:02 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 01 - The Worst Birthday.mp3"
+Feb 06 21:02 : client: [95] closed
+Feb 06 21:02 : client: [96] closed
+Feb 06 21:02 : client: [97] opened from 127.0.0.1:60128
+Feb 06 21:02 : client: [97] closed
+Feb 06 21:02 : client: [98] opened from 127.0.0.1:60132
+Feb 06 21:02 : client: [98] closed
+Feb 06 21:02 : client: [99] opened from 127.0.0.1:60136
+Feb 06 21:02 : client: [100] opened from 127.0.0.1:60140
+Feb 06 21:02 : client: [99] closed
+Feb 06 21:02 : client: [80] closed
+Feb 06 21:02 : client: [101] opened from 127.0.0.1:60152
+Feb 06 21:02 : client: [100] closed
+Feb 06 21:02 : client: [102] opened from 127.0.0.1:60156
+Feb 06 21:02 : client: [103] opened from 127.0.0.1:60160
+Feb 06 21:02 : client: [102] closed
+Feb 06 21:02 : client: [103] closed
+Feb 06 21:02 : client: [104] opened from 127.0.0.1:60164
+Feb 06 21:02 : client: [105] opened from 127.0.0.1:60168
+Feb 06 21:02 : client: [104] closed
+Feb 06 21:02 : client: [105] closed
+Feb 06 21:02 : client: [106] opened from 127.0.0.1:60172
+Feb 06 21:02 : client: [107] opened from 127.0.0.1:60176
+Feb 06 21:02 : client: [106] closed
+Feb 06 21:02 : client: [107] closed
+Feb 06 21:02 : client: [108] opened from 127.0.0.1:60180
+Feb 06 21:02 : client: [108] closed
+Feb 06 21:02 : client: [109] opened from 127.0.0.1:60184
+Feb 06 21:03 : client: [101] closed
+Feb 06 21:03 : client: [110] opened from 127.0.0.1:60192
+Feb 06 21:03 : client: [111] opened from 127.0.0.1:60196
+Feb 06 21:03 : client: [109] closed
+Feb 06 21:03 : client: [112] opened from 127.0.0.1:60200
+Feb 06 21:03 : client: [111] closed
+Feb 06 21:03 : client: [112] closed
+Feb 06 21:03 : client: [113] opened from 127.0.0.1:60208
+Feb 06 21:03 : client: [114] opened from 127.0.0.1:60212
+Feb 06 21:03 : client: [113] closed
+Feb 06 21:03 : client: [115] opened from 127.0.0.1:60216
+Feb 06 21:03 : client: [114] closed
+Feb 06 21:03 : client: [115] closed
+Feb 06 21:03 : client: [116] opened from 127.0.0.1:60220
+Feb 06 21:03 : client: [116] closed
+Feb 06 21:03 : client: [117] opened from 127.0.0.1:60224
+Feb 06 21:03 : client: [118] opened from 127.0.0.1:60228
+Feb 06 21:03 : client: [117] closed
+Feb 06 21:03 : client: [118] closed
+Feb 06 21:03 : client: [119] opened from 127.0.0.1:60232
+Feb 06 21:03 : client: [119] closed
+Feb 06 21:03 : client: [120] opened from 127.0.0.1:60236
+Feb 06 21:03 : client: [110] closed
+Feb 06 21:06 : client: [120] closed
+Feb 06 21:06 : update: added Podcasts/Why Constant Learners All Embrace the 5 Hour Rule-IaODRYKFbrc.opus
+Feb 06 21:06 : client: [121] opened from 127.0.0.1:60310
+Feb 06 21:06 : client: [121] closed
+Feb 06 21:06 : client: [122] opened from 127.0.0.1:60314
+Feb 06 21:06 : client: [123] opened from 127.0.0.1:60318
+Feb 06 21:06 : client: [122] closed
+Feb 06 21:06 : client: [124] opened from 127.0.0.1:60322
+Feb 06 21:06 : client: [124] closed
+Feb 06 21:06 : client: [125] opened from 127.0.0.1:60326
+Feb 06 21:06 : client: [126] opened from 127.0.0.1:60330
+Feb 06 21:06 : client: [125] closed
+Feb 06 21:06 : client: [126] closed
+Feb 06 21:06 : client: [127] opened from 127.0.0.1:60334
+Feb 06 21:06 : client: [128] opened from 127.0.0.1:60338
+Feb 06 21:06 : client: [127] closed
+Feb 06 21:06 : client: [129] opened from 127.0.0.1:60342
+Feb 06 21:06 : client: [128] closed
+Feb 06 21:06 : client: [129] closed
+Feb 06 21:06 : client: [130] opened from 127.0.0.1:60346
+Feb 06 21:06 : client: [131] opened from 127.0.0.1:60350
+Feb 06 21:06 : client: [131] closed
+Feb 06 21:06 : client: [132] opened from 127.0.0.1:60354
+Feb 06 21:06 : client: [130] closed
+Feb 06 21:06 : client: [132] closed
+Feb 06 21:06 : client: [133] opened from 127.0.0.1:60358
+Feb 06 21:06 : client: [133] closed
+Feb 06 21:06 : client: [134] opened from 127.0.0.1:60362
+Feb 06 21:06 : client: [135] opened from 127.0.0.1:60366
+Feb 06 21:06 : client: [134] closed
+Feb 06 21:06 : client: [135] closed
+Feb 06 21:06 : client: [136] opened from 127.0.0.1:60370
+Feb 06 21:06 : client: [137] opened from 127.0.0.1:60374
+Feb 06 21:06 : client: [136] closed
+Feb 06 21:06 : client: [138] opened from 127.0.0.1:60378
+Feb 06 21:06 : client: [137] closed
+Feb 06 21:06 : client: [138] closed
+Feb 06 21:06 : client: [139] opened from 127.0.0.1:60382
+Feb 06 21:06 : client: [140] opened from 127.0.0.1:60386
+Feb 06 21:06 : client: [139] closed
+Feb 06 21:06 : client: [141] opened from 127.0.0.1:60390
+Feb 06 21:06 : client: [140] closed
+Feb 06 21:06 : client: [141] closed
+Feb 06 21:06 : client: [142] opened from 127.0.0.1:60394
+Feb 06 21:06 : client: [143] opened from 127.0.0.1:60398
+Feb 06 21:06 : client: [144] opened from 127.0.0.1:60402
+Feb 06 21:06 : client: [142] closed
+Feb 06 21:06 : client: [143] closed
+Feb 06 21:06 : client: [145] opened from 127.0.0.1:60406
+Feb 06 21:06 : client: [144] closed
+Feb 06 21:06 : client: [145] closed
+Feb 06 21:06 : client: [146] opened from 127.0.0.1:60410
+Feb 06 21:06 : client: [147] opened from 127.0.0.1:60414
+Feb 06 21:06 : client: [148] opened from 127.0.0.1:60418
+Feb 06 21:06 : client: [147] closed
+Feb 06 21:06 : client: [146] closed
+Feb 06 21:06 : client: [149] opened from 127.0.0.1:60422
+Feb 06 21:06 : client: [148] closed
+Feb 06 21:06 : client: [149] closed
+Feb 06 21:06 : client: [150] opened from 127.0.0.1:60426
+Feb 06 21:06 : client: [150] closed
+Feb 06 21:06 : client: [151] opened from 127.0.0.1:60430
+Feb 06 21:06 : client: [152] opened from 127.0.0.1:60434
+Feb 06 21:06 : client: [151] closed
+Feb 06 21:06 : client: [152] closed
+Feb 06 21:06 : client: [153] opened from 127.0.0.1:60438
+Feb 06 21:06 : client: [154] opened from 127.0.0.1:60442
+Feb 06 21:06 : client: [154] closed
+Feb 06 21:06 : client: [155] opened from 127.0.0.1:60446
+Feb 06 21:06 : client: [153] closed
+Feb 06 21:06 : client: [155] closed
+Feb 06 21:06 : client: [156] opened from 127.0.0.1:60450
+Feb 06 21:06 : client: [157] opened from 127.0.0.1:60454
+Feb 06 21:06 : client: [158] opened from 127.0.0.1:60458
+Feb 06 21:06 : client: [157] closed
+Feb 06 21:06 : client: [156] closed
+Feb 06 21:06 : client: [159] opened from 127.0.0.1:60462
+Feb 06 21:06 : client: [158] closed
+Feb 06 21:06 : client: [159] closed
+Feb 06 21:06 : client: [160] opened from 127.0.0.1:60466
+Feb 06 21:06 : client: [161] opened from 127.0.0.1:60470
+Feb 06 21:06 : client: [162] opened from 127.0.0.1:60474
+Feb 06 21:06 : client: [160] closed
+Feb 06 21:06 : client: [161] closed
+Feb 06 21:06 : client: [163] opened from 127.0.0.1:60478
+Feb 06 21:06 : client: [162] closed
+Feb 06 21:06 : client: [163] closed
+Feb 06 21:06 : client: [164] opened from 127.0.0.1:60482
+Feb 06 21:06 : client: [164] closed
+Feb 06 21:06 : client: [165] opened from 127.0.0.1:60486
+Feb 06 21:06 : client: [166] opened from 127.0.0.1:60490
+Feb 06 21:06 : client: [165] closed
+Feb 06 21:06 : client: [166] closed
+Feb 06 21:06 : client: [167] opened from 127.0.0.1:60494
+Feb 06 21:06 : client: [167] closed
+Feb 06 21:06 : client: [168] opened from 127.0.0.1:60498
+Feb 06 21:06 : client: [169] opened from 127.0.0.1:60502
+Feb 06 21:06 : client: [168] closed
+Feb 06 21:06 : client: [169] closed
+Feb 06 21:06 : client: [170] opened from 127.0.0.1:60506
+Feb 06 21:06 : client: [170] closed
+Feb 06 21:06 : client: [171] opened from 127.0.0.1:60510
+Feb 06 21:06 : client: [172] opened from 127.0.0.1:60514
+Feb 06 21:06 : client: [171] closed
+Feb 06 21:06 : client: [172] closed
+Feb 06 21:06 : client: [173] opened from 127.0.0.1:60518
+Feb 06 21:06 : client: [174] opened from 127.0.0.1:60522
+Feb 06 21:06 : client: [175] opened from 127.0.0.1:60526
+Feb 06 21:06 : client: [173] closed
+Feb 06 21:06 : client: [175] closed
+Feb 06 21:06 : client: [123] closed
+Feb 06 21:07 : client: [176] opened from 127.0.0.1:60534
+Feb 06 21:07 : client: [174] closed
+Feb 06 21:07 : client: [176] closed
+Feb 06 21:07 : client: [177] opened from 127.0.0.1:60538
+Feb 06 21:07 : client: [178] opened from 127.0.0.1:60542
+Feb 06 21:07 : client: [177] closed
+Feb 06 21:32 : client: [179] opened from 127.0.0.1:60764
+Feb 06 21:32 : client: [178] closed
+Feb 06 21:32 : client: [179] closed
+Feb 06 21:32 : client: [180] opened from 127.0.0.1:60768
+Feb 06 21:32 : client: [181] opened from 127.0.0.1:60772
+Feb 06 21:32 : client: [180] closed
+Feb 06 21:32 : client: [182] opened from 127.0.0.1:60776
+Feb 06 21:32 : client: [181] closed
+Feb 06 21:32 : client: [182] closed
+Feb 06 21:32 : client: [183] opened from 127.0.0.1:60780
+Feb 06 21:32 : client: [184] opened from 127.0.0.1:60784
+Feb 06 21:32 : client: [183] closed
+Feb 06 21:32 : client: [185] opened from 127.0.0.1:60788
+Feb 06 21:32 : player: played "Podcasts/Why Constant Learners All Embrace the 5 Hour Rule-IaODRYKFbrc.opus"
+Feb 06 21:32 : client: [184] closed
+Feb 06 21:32 : client: [185] closed
+Feb 06 21:32 : client: [186] opened from 127.0.0.1:60792
+Feb 06 21:32 : client: [186] closed
+Feb 06 21:32 : client: [187] opened from 127.0.0.1:60796
+Feb 06 21:38 : client: [188] opened from 127.0.0.1:32780
+Feb 06 21:38 : client: [188] closed
+Feb 06 21:38 : client: [189] opened from 127.0.0.1:32784
+Feb 06 21:38 : client: [189] closed
+Feb 07 05:35 : client: [190] opened from 127.0.0.1:36686
+Feb 07 05:35 : client: [187] closed
+Feb 07 05:35 : client: [191] opened from 127.0.0.1:36690
+Feb 07 05:35 : client: [191] closed
+Feb 07 05:35 : client: [192] opened from 127.0.0.1:36694
+Feb 07 05:35 : client: [192] closed
+Feb 07 05:35 : client: [193] opened from 127.0.0.1:36698
+Feb 07 05:35 : client: [193] closed
+Feb 07 05:35 : client: [194] opened from 127.0.0.1:36702
+Feb 07 05:35 : client: [194] closed
+Feb 07 05:35 : client: [195] opened from 127.0.0.1:36706
+Feb 07 05:35 : client: [196] opened from 127.0.0.1:36710
+Feb 07 05:35 : client: [195] closed
+Feb 07 05:40 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/01. Made In Heaven.mp3"
+Feb 07 05:40 : client: [196] closed
+Feb 07 05:40 : client: [197] opened from 127.0.0.1:36714
+Feb 07 05:40 : client: [198] opened from 127.0.0.1:36718
+Feb 07 05:40 : client: [197] closed
+Feb 07 05:41 : client: [198] closed
+Feb 07 05:41 : client: [199] opened from 127.0.0.1:36722
+Feb 07 05:41 : client: [200] opened from 127.0.0.1:36726
+Feb 07 05:41 : client: [199] closed
+Feb 07 05:41 : client: [201] opened from 127.0.0.1:36730
+Feb 07 05:41 : client: [200] closed
+Feb 07 05:41 : client: [202] opened from 127.0.0.1:36734
+Feb 07 05:41 : client: [201] closed
+Feb 07 05:56 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 07 05:56 : client: [202] closed
+Feb 07 05:56 : client: [203] opened from 127.0.0.1:36738
+Feb 07 05:56 : client: [204] opened from 127.0.0.1:36742
+Feb 07 05:56 : client: [203] closed
+Feb 07 05:59 : client: [205] opened from 127.0.0.1:36746
+Feb 07 05:59 : client: [204] closed
+Feb 07 05:59 : client: [205] closed
+Feb 07 05:59 : client: [206] opened from 127.0.0.1:36750
+Feb 07 05:59 : client: [207] opened from 127.0.0.1:36754
+Feb 07 05:59 : client: [206] closed
+Feb 07 05:59 : client: [208] opened from 127.0.0.1:36758
+Feb 07 05:59 : client: [207] closed
+Feb 07 05:59 : client: [208] closed
+Feb 07 05:59 : client: [209] opened from 127.0.0.1:36762
+Feb 07 05:59 : client: [210] opened from 127.0.0.1:36766
+Feb 07 05:59 : client: [209] closed
+Feb 07 06:10 : client: [190] closed
+Feb 07 06:11 : client: [211] opened from 127.0.0.1:36770
+Feb 07 06:11 : client: [211] closed
+Feb 07 06:11 : client: [212] opened from 127.0.0.1:36774
+Feb 07 06:11 : client: [213] opened from 127.0.0.1:36778
+Feb 07 06:11 : client: [213] closed
+Feb 07 06:11 : client: [212] closed
+Feb 07 06:11 : client: [214] opened from 127.0.0.1:36782
+Feb 07 06:11 : client: [210] closed
+Feb 07 06:11 : client: [215] opened from 127.0.0.1:36786
+Feb 07 06:11 : client: [216] opened from 127.0.0.1:36790
+Feb 07 06:11 : client: [215] closed
+Feb 07 06:11 : client: [217] opened from 127.0.0.1:36794
+Feb 07 06:11 : client: [216] closed
+Feb 07 06:11 : client: [218] opened from 127.0.0.1:36798
+Feb 07 06:11 : client: [217] closed
+Feb 07 06:11 : client: [214] closed
+Feb 07 06:25 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 07 06:25 : client: [218] closed
+Feb 07 06:25 : client: [219] opened from 127.0.0.1:36802
+Feb 07 06:25 : client: [219] closed
+Feb 07 06:25 : client: [220] opened from 127.0.0.1:36806
+Feb 07 06:25 : client: [221] opened from 127.0.0.1:36810
+Feb 07 06:25 : client: [220] closed
+Feb 07 06:25 : client: [221] closed
+Feb 07 06:25 : client: [222] opened from 127.0.0.1:36814
+Feb 07 06:25 : client: [223] opened from 127.0.0.1:36818
+Feb 07 06:25 : client: [222] closed
+Feb 07 06:25 : client: [224] opened from 127.0.0.1:36822
+Feb 07 06:25 : client: [223] closed
+Feb 07 06:25 : client: [224] closed
+Feb 07 06:25 : client: [225] opened from 127.0.0.1:36826
+Feb 07 06:25 : client: [226] opened from 127.0.0.1:36830
+Feb 07 06:25 : client: [225] closed
+Feb 07 06:25 : client: [227] opened from 127.0.0.1:36834
+Feb 07 06:25 : client: [226] closed
+Feb 07 06:25 : client: [227] closed
+Feb 07 06:25 : client: [228] opened from 127.0.0.1:36838
+Feb 07 06:25 : client: [229] opened from 127.0.0.1:36842
+Feb 07 06:25 : client: [228] closed
+Feb 07 06:25 : client: [230] opened from 127.0.0.1:36846
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : client: [229] closed
+Feb 07 06:25 : client: [231] opened from 127.0.0.1:36850
+Feb 07 06:25 : client: [232] opened from 127.0.0.1:36854
+Feb 07 06:25 : client: [231] closed
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 07 06:25 : client: [232] closed
+Feb 07 06:25 : client: [233] opened from 127.0.0.1:36858
+Feb 07 06:25 : client: [234] opened from 127.0.0.1:36862
+Feb 07 06:25 : client: [233] closed
+Feb 07 06:25 : client: [234] closed
+Feb 07 06:25 : client: [235] opened from 127.0.0.1:36866
+Feb 07 06:25 : client: [236] opened from 127.0.0.1:36870
+Feb 07 06:25 : client: [235] closed
+Feb 07 06:25 : client: [236] closed
+Feb 07 06:25 : client: [237] opened from 127.0.0.1:36874
+Feb 07 06:25 : client: [238] opened from 127.0.0.1:36878
+Feb 07 06:25 : client: [237] closed
+Feb 07 06:25 : client: [238] closed
+Feb 07 06:25 : client: [239] opened from 127.0.0.1:36882
+Feb 07 06:25 : client: [240] opened from 127.0.0.1:36886
+Feb 07 06:25 : client: [239] closed
+Feb 07 06:25 : client: [240] closed
+Feb 07 06:25 : client: [241] opened from 127.0.0.1:36890
+Feb 07 06:25 : client: [242] opened from 127.0.0.1:36894
+Feb 07 06:25 : client: [241] closed
+Feb 07 06:25 : client: [242] closed
+Feb 07 06:25 : client: [243] opened from 127.0.0.1:36898
+Feb 07 06:25 : client: [244] opened from 127.0.0.1:36902
+Feb 07 06:25 : client: [243] closed
+Feb 07 06:25 : client: [245] opened from 127.0.0.1:36906
+Feb 07 06:25 : client: [244] closed
+Feb 07 06:25 : client: [245] closed
+Feb 07 06:25 : client: [246] opened from 127.0.0.1:36910
+Feb 07 06:25 : client: [247] opened from 127.0.0.1:36914
+Feb 07 06:25 : client: [246] closed
+Feb 07 06:25 : client: [248] opened from 127.0.0.1:36918
+Feb 07 06:25 : client: [248] closed
+Feb 07 06:26 : client: [247] closed
+Feb 07 06:26 : client: [249] opened from 127.0.0.1:36922
+Feb 07 06:26 : client: [250] opened from 127.0.0.1:36926
+Feb 07 06:26 : client: [249] closed
+Feb 07 06:26 : client: [230] closed
+Feb 07 06:26 : client: [251] opened from 127.0.0.1:36930
+Feb 07 06:26 : client: [252] opened from 127.0.0.1:36934
+Feb 07 06:26 : client: [250] closed
+Feb 07 06:26 : client: [253] opened from 127.0.0.1:36938
+Feb 07 06:26 : client: [253] closed
+Feb 07 06:26 : client: [252] closed
+Feb 07 06:26 : client: [254] opened from 127.0.0.1:36942
+Feb 07 06:26 : client: [255] opened from 127.0.0.1:36946
+Feb 07 06:26 : client: [254] closed
+Feb 07 06:41 : client: [256] opened from 127.0.0.1:36950
+Feb 07 06:41 : client: [255] closed
+Feb 07 06:41 : client: [257] opened from 127.0.0.1:36954
+Feb 07 06:41 : client: [256] closed
+Feb 07 06:47 : client: [257] closed
+Feb 07 06:47 : client: [258] opened from 127.0.0.1:36958
+Feb 07 06:47 : client: [259] opened from 127.0.0.1:36962
+Feb 07 06:47 : client: [258] closed
+Feb 07 06:47 : client: [259] closed
+Feb 07 06:47 : client: [260] opened from 127.0.0.1:36966
+Feb 07 06:47 : client: [261] opened from 127.0.0.1:36970
+Feb 07 06:47 : client: [260] closed
+Feb 07 06:47 : client: [261] closed
+Feb 07 06:47 : client: [262] opened from 127.0.0.1:36974
+Feb 07 06:47 : client: [263] opened from 127.0.0.1:36978
+Feb 07 06:47 : client: [262] closed
+Feb 07 06:47 : player: played "Podcasts/Why Constant Learners All Embrace the 5 Hour Rule-IaODRYKFbrc.opus"
+Feb 07 06:47 : client: [263] closed
+Feb 07 06:47 : client: [264] opened from 127.0.0.1:36982
+Feb 07 06:47 : client: [264] closed
+Feb 07 06:47 : client: [265] opened from 127.0.0.1:36986
+Feb 07 06:47 : client: [265] closed
+Feb 07 06:47 : client: [266] opened from 127.0.0.1:36990
+Feb 07 06:47 : client: [267] opened from 127.0.0.1:36994
+Feb 07 06:47 : client: [266] closed
+Feb 07 06:54 : client: [251] closed
+Feb 07 07:01 : player: played "Podcasts/The Science Behind Why You Procrastinate-7DvftaHlZR0.opus"
+Feb 07 07:01 : client: [267] closed
+Feb 07 07:01 : client: [268] opened from 127.0.0.1:37170
+Feb 07 07:01 : client: [268] closed
+Feb 07 07:01 : client: [269] opened from 127.0.0.1:37174
+Feb 07 17:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 07 17:16 : client: [0] opened from 127.0.0.1:46450
+Feb 07 17:16 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 07 17:16 : client: [1] opened from 127.0.0.1:46462
+Feb 07 17:16 : client: [1] closed
+Feb 08 00:17 : client: [2] opened from 127.0.0.1:51892
+Feb 08 00:17 : client: [2] closed
+Feb 08 00:17 : client: [3] opened from 127.0.0.1:51896
+Feb 08 00:17 : client: [3] closed
+Feb 08 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 13:08 : client: [0] opened from 127.0.0.1:54882
+Feb 08 13:08 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 08 13:08 : client: [1] opened from 127.0.0.1:54886
+Feb 08 13:08 : client: [1] closed
+Feb 08 15:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 15:51 : client: [0] opened from 127.0.0.1:57508
+Feb 08 15:51 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 08 15:51 : client: [1] opened from 127.0.0.1:57512
+Feb 08 15:51 : client: [1] closed
+Feb 08 15:52 : client: [2] opened from 127.0.0.1:57516
+Feb 08 15:52 : exception: Not playing
+Feb 08 15:52 : client: [2] closed
+Feb 08 15:52 : client: [3] opened from 127.0.0.1:57520
+Feb 08 15:52 : exception: Not playing
+Feb 08 15:52 : client: [3] closed
+Feb 08 15:53 : client: [4] opened from 127.0.0.1:57524
+Feb 08 15:53 : exception: Not playing
+Feb 08 15:53 : client: [4] closed
+Feb 08 16:42 : client: [5] opened from 127.0.0.1:57530
+Feb 08 16:42 : client: [5] closed
+Feb 08 16:42 : client: [6] opened from 127.0.0.1:57534
+Feb 08 16:42 : client: [6] closed
+Feb 08 20:49 : client: [7] opened from 127.0.0.1:57540
+Feb 08 20:49 : client: [0] closed
+Feb 08 20:49 : client: [8] opened from 127.0.0.1:57544
+Feb 08 20:49 : client: [8] closed
+Feb 08 20:49 : client: [9] opened from 127.0.0.1:57548
+Feb 08 20:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 20:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 20:49 : client: [9] closed
+Feb 08 20:49 : client: [10] opened from 127.0.0.1:57552
+Feb 08 20:49 : client: [11] opened from 127.0.0.1:57556
+Feb 08 20:49 : client: [11] closed
+Feb 08 20:49 : client: [12] opened from 127.0.0.1:57560
+Feb 08 20:50 : client: [10] closed
+Feb 08 20:50 : client: [12] closed
+Feb 08 20:50 : client: [13] opened from 127.0.0.1:57564
+Feb 08 20:50 : client: [14] opened from 127.0.0.1:57568
+Feb 08 20:50 : client: [13] closed
+Feb 08 20:50 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 08 20:50 : client: [14] closed
+Feb 08 20:50 : client: [15] opened from 127.0.0.1:57572
+Feb 08 20:50 : client: [16] opened from 127.0.0.1:57576
+Feb 08 20:50 : client: [15] closed
+Feb 08 20:50 : client: [16] closed
+Feb 08 20:50 : client: [17] opened from 127.0.0.1:57580
+Feb 08 20:50 : client: [18] opened from 127.0.0.1:57584
+Feb 08 20:50 : client: [17] closed
+Feb 08 20:50 : client: [7] closed
+Feb 08 20:54 : client: [19] opened from 127.0.0.1:57588
+Feb 08 20:54 : client: [19] closed
+Feb 08 20:54 : client: [20] opened from 127.0.0.1:57592
+Feb 08 20:54 : client: [18] closed
+Feb 08 20:54 : client: [21] opened from 127.0.0.1:57596
+Feb 08 20:54 : client: [22] opened from 127.0.0.1:57600
+Feb 08 20:54 : client: [21] closed
+Feb 08 20:54 : client: [23] opened from 127.0.0.1:57604
+Feb 08 20:54 : client: [22] closed
+Feb 08 20:54 : client: [23] closed
+Feb 08 20:54 : client: [24] opened from 127.0.0.1:57608
+Feb 08 20:54 : client: [25] opened from 127.0.0.1:57612
+Feb 08 20:54 : client: [24] closed
+Feb 08 21:05 : client: [20] closed
+Feb 08 21:07 : client: [26] opened from 127.0.0.1:57616
+Feb 08 21:07 : client: [26] closed
+Feb 08 21:07 : client: [27] opened from 127.0.0.1:57620
+Feb 08 21:07 : client: [27] closed
+Feb 08 21:07 : client: [28] opened from 127.0.0.1:57624
+Feb 08 21:07 : client: [25] closed
+Feb 08 21:07 : client: [28] closed
+Feb 08 21:07 : client: [29] opened from 127.0.0.1:57628
+Feb 08 21:07 : client: [30] opened from 127.0.0.1:57632
+Feb 08 21:07 : client: [29] closed
+Feb 08 21:07 : client: [31] opened from 127.0.0.1:57636
+Feb 08 21:07 : client: [30] closed
+Feb 08 21:07 : client: [31] closed
+Feb 08 21:07 : client: [32] opened from 127.0.0.1:57640
+Feb 08 21:07 : client: [33] opened from 127.0.0.1:57644
+Feb 08 21:07 : client: [32] closed
+Feb 08 21:07 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/03 Lana Del Rey - Blue Jeans.mp3"
+Feb 09 13:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 13:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 13:46 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 09 13:46 : client: [0] opened from 127.0.0.1:57812
+Feb 09 13:46 : client: [1] opened from 127.0.0.1:57816
+Feb 09 13:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 13:46 : client: [1] closed
+Feb 09 13:46 : client: [2] opened from 127.0.0.1:57820
+Feb 09 13:46 : client: [3] opened from 127.0.0.1:57824
+Feb 09 13:46 : client: [3] closed
+Feb 09 13:46 : client: [4] opened from 127.0.0.1:57828
+Feb 09 13:46 : client: [4] closed
+Feb 09 13:46 : client: [2] closed
+Feb 09 13:46 : client: [5] opened from 127.0.0.1:57832
+Feb 09 13:46 : client: [6] opened from 127.0.0.1:57836
+Feb 09 13:46 : client: [5] closed
+Feb 09 13:46 : client: [6] closed
+Feb 09 13:46 : client: [7] opened from 127.0.0.1:57840
+Feb 09 13:46 : client: [8] opened from 127.0.0.1:57844
+Feb 09 13:46 : client: [7] closed
+Feb 09 13:46 : client: [8] closed
+Feb 09 13:46 : client: [9] opened from 127.0.0.1:57848
+Feb 09 13:46 : client: [10] opened from 127.0.0.1:57852
+Feb 09 13:46 : client: [9] closed
+Feb 09 13:46 : client: [10] closed
+Feb 09 13:46 : client: [11] opened from 127.0.0.1:57856
+Feb 09 13:46 : client: [12] opened from 127.0.0.1:57860
+Feb 09 13:46 : client: [11] closed
+Feb 09 13:46 : client: [12] closed
+Feb 09 13:46 : client: [13] opened from 127.0.0.1:57864
+Feb 09 13:46 : client: [14] opened from 127.0.0.1:57868
+Feb 09 13:46 : client: [13] closed
+Feb 09 13:46 : client: [14] closed
+Feb 09 13:46 : client: [15] opened from 127.0.0.1:57872
+Feb 09 13:46 : client: [16] opened from 127.0.0.1:57876
+Feb 09 13:46 : client: [15] closed
+Feb 09 13:46 : client: [16] closed
+Feb 09 13:46 : client: [17] opened from 127.0.0.1:57880
+Feb 09 13:46 : client: [18] opened from 127.0.0.1:57884
+Feb 09 13:46 : client: [17] closed
+Feb 09 13:46 : client: [19] opened from 127.0.0.1:57888
+Feb 09 13:46 : client: [18] closed
+Feb 09 13:46 : client: [20] opened from 127.0.0.1:57892
+Feb 09 13:46 : client: [20] closed
+Feb 09 13:46 : client: [19] closed
+Feb 09 13:46 : client: [21] opened from 127.0.0.1:57896
+Feb 09 13:46 : client: [22] opened from 127.0.0.1:57900
+Feb 09 13:46 : client: [21] closed
+Feb 09 13:46 : client: [22] closed
+Feb 09 13:46 : client: [23] opened from 127.0.0.1:57904
+Feb 09 13:46 : client: [24] opened from 127.0.0.1:57908
+Feb 09 13:46 : client: [23] closed
+Feb 09 13:46 : client: [24] closed
+Feb 09 13:46 : client: [25] opened from 127.0.0.1:57912
+Feb 09 13:46 : client: [26] opened from 127.0.0.1:57916
+Feb 09 13:46 : client: [26] closed
+Feb 09 13:46 : client: [25] closed
+Feb 09 13:46 : client: [27] opened from 127.0.0.1:57920
+Feb 09 13:46 : client: [28] opened from 127.0.0.1:57924
+Feb 09 13:46 : client: [27] closed
+Feb 09 13:46 : client: [29] opened from 127.0.0.1:57928
+Feb 09 13:46 : client: [28] closed
+Feb 09 13:46 : client: [29] closed
+Feb 09 13:46 : client: [30] opened from 127.0.0.1:57932
+Feb 09 13:46 : client: [30] closed
+Feb 09 13:46 : client: [31] opened from 127.0.0.1:57936
+Feb 09 13:50 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/12. I Want To Break Free.mp3"
+Feb 09 13:50 : client: [31] closed
+Feb 09 13:50 : client: [32] opened from 127.0.0.1:57940
+Feb 09 13:50 : client: [32] closed
+Feb 09 13:50 : client: [33] opened from 127.0.0.1:57944
+Feb 09 14:01 : client: [0] closed
+Feb 09 14:54 : client: [34] opened from 127.0.0.1:59756
+Feb 09 14:54 : client: [34] closed
+Feb 09 14:54 : client: [33] closed
+Feb 09 14:54 : client: [35] opened from 127.0.0.1:59760
+Feb 09 14:54 : client: [35] closed
+Feb 09 14:54 : client: [36] opened from 127.0.0.1:59764
+Feb 09 14:54 : client: [37] opened from 127.0.0.1:59768
+Feb 09 14:54 : client: [36] closed
+Feb 09 14:54 : client: [37] closed
+Feb 09 14:54 : client: [38] opened from 127.0.0.1:59772
+Feb 09 14:54 : client: [39] opened from 127.0.0.1:59776
+Feb 09 14:54 : client: [38] closed
+Feb 09 14:54 : client: [40] opened from 127.0.0.1:59780
+Feb 09 14:54 : client: [39] closed
+Feb 09 14:54 : client: [40] closed
+Feb 09 14:54 : client: [41] opened from 127.0.0.1:59784
+Feb 09 14:54 : client: [42] opened from 127.0.0.1:59788
+Feb 09 14:54 : client: [41] closed
+Feb 09 14:54 : client: [43] opened from 127.0.0.1:59792
+Feb 09 14:54 : client: [42] closed
+Feb 09 14:54 : client: [43] closed
+Feb 09 14:54 : client: [44] opened from 127.0.0.1:59796
+Feb 09 14:54 : client: [45] opened from 127.0.0.1:59800
+Feb 09 14:54 : client: [44] closed
+Feb 09 15:44 : client: [46] opened from 127.0.0.1:60946
+Feb 09 15:44 : client: [46] closed
+Feb 09 15:44 : client: [47] opened from 127.0.0.1:60950
+Feb 09 15:44 : client: [48] opened from 127.0.0.1:60954
+Feb 09 15:44 : client: [45] closed
+Feb 09 15:44 : client: [48] closed
+Feb 09 15:44 : client: [49] opened from 127.0.0.1:60958
+Feb 09 15:44 : client: [50] opened from 127.0.0.1:60962
+Feb 09 15:44 : client: [49] closed
+Feb 09 15:44 : client: [47] closed
+Feb 09 15:44 : client: [51] opened from 127.0.0.1:60966
+Feb 09 15:44 : client: [50] closed
+Feb 09 15:44 : client: [51] closed
+Feb 09 15:44 : client: [52] opened from 127.0.0.1:60970
+Feb 09 15:44 : client: [53] opened from 127.0.0.1:60974
+Feb 09 15:44 : client: [52] closed
+Feb 09 15:44 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/02. A Kind Of Magic.mp3"
+Feb 09 18:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 18:24 : client: [0] opened from 127.0.0.1:53766
+Feb 09 18:24 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 09 18:24 : client: [1] opened from 127.0.0.1:53770
+Feb 09 18:24 : client: [1] closed
+Feb 09 18:45 : client: [2] opened from 127.0.0.1:54392
+Feb 09 18:45 : client: [2] closed
+Feb 09 18:53 : client: [3] opened from 127.0.0.1:54540
+Feb 09 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 18:53 : client: [0] closed
+Feb 09 18:53 : client: [3] closed
+Feb 09 18:53 : client: [4] opened from 127.0.0.1:54544
+Feb 09 18:53 : client: [5] opened from 127.0.0.1:54548
+Feb 09 18:53 : client: [4] closed
+Feb 09 18:53 : client: [6] opened from 127.0.0.1:54552
+Feb 09 18:53 : client: [5] closed
+Feb 09 18:53 : client: [6] closed
+Feb 09 18:53 : client: [7] opened from 127.0.0.1:54556
+Feb 09 18:53 : client: [8] opened from 127.0.0.1:54560
+Feb 09 18:53 : client: [7] closed
+Feb 09 18:53 : client: [9] opened from 127.0.0.1:54564
+Feb 09 18:53 : client: [8] closed
+Feb 09 18:53 : client: [9] closed
+Feb 09 18:53 : client: [10] opened from 127.0.0.1:54568
+Feb 09 18:53 : client: [11] opened from 127.0.0.1:54572
+Feb 09 18:53 : client: [10] closed
+Feb 09 18:53 : client: [12] opened from 127.0.0.1:54576
+Feb 09 18:53 : client: [12] closed
+Feb 09 18:53 : client: [13] opened from 127.0.0.1:54580
+Feb 09 18:53 : client: [13] closed
+Feb 09 18:54 : client: [14] opened from 127.0.0.1:54590
+Feb 09 18:54 : client: [11] closed
+Feb 09 18:54 : client: [14] closed
+Feb 09 18:54 : client: [15] opened from 127.0.0.1:54594
+Feb 09 18:54 : client: [16] opened from 127.0.0.1:54598
+Feb 09 18:54 : client: [15] closed
+Feb 09 19:33 : client: [17] opened from 127.0.0.1:55782
+Feb 09 19:33 : client: [17] closed
+Feb 09 19:33 : client: [18] opened from 127.0.0.1:55788
+Feb 09 19:33 : client: [18] closed
+Feb 10 11:28 : client: [19] opened from 127.0.0.1:33920
+Feb 10 11:28 : client: [19] closed
+Feb 10 11:29 : client: [20] opened from 127.0.0.1:33940
+Feb 10 11:29 : client: [20] closed
+Feb 10 11:29 : client: [21] opened from 127.0.0.1:33956
+Feb 10 11:29 : client: [21] closed
+Feb 10 11:30 : client: [22] opened from 127.0.0.1:33962
+Feb 10 11:30 : client: [16] closed
+Feb 10 11:30 : client: [22] closed
+Feb 10 11:30 : client: [23] opened from 127.0.0.1:33966
+Feb 10 11:30 : client: [24] opened from 127.0.0.1:33970
+Feb 10 11:30 : client: [23] closed
+Feb 10 11:30 : client: [25] opened from 127.0.0.1:33974
+Feb 10 11:30 : client: [24] closed
+Feb 10 11:30 : client: [25] closed
+Feb 10 11:30 : client: [26] opened from 127.0.0.1:33978
+Feb 10 11:30 : client: [27] opened from 127.0.0.1:33982
+Feb 10 11:30 : client: [26] closed
+Feb 10 11:30 : client: [28] opened from 127.0.0.1:33986
+Feb 10 11:30 : client: [27] closed
+Feb 10 11:30 : client: [28] closed
+Feb 10 11:30 : client: [29] opened from 127.0.0.1:33990
+Feb 10 11:30 : client: [30] opened from 127.0.0.1:33994
+Feb 10 11:30 : client: [29] closed
+Feb 10 11:30 : client: [31] opened from 127.0.0.1:33998
+Feb 10 11:30 : client: [30] closed
+Feb 10 11:30 : client: [31] closed
+Feb 10 11:30 : client: [32] opened from 127.0.0.1:34002
+Feb 10 11:30 : client: [33] opened from 127.0.0.1:34006
+Feb 10 11:30 : client: [32] closed
+Feb 10 11:30 : client: [34] opened from 127.0.0.1:34010
+Feb 10 11:30 : client: [33] closed
+Feb 10 11:30 : client: [34] closed
+Feb 10 11:30 : client: [35] opened from 127.0.0.1:34014
+Feb 10 11:30 : client: [36] opened from 127.0.0.1:34018
+Feb 10 11:30 : client: [35] closed
+Feb 10 11:30 : client: [37] opened from 127.0.0.1:34022
+Feb 10 11:30 : client: [36] closed
+Feb 10 11:30 : client: [37] closed
+Feb 10 11:30 : client: [38] opened from 127.0.0.1:34026
+Feb 10 11:30 : client: [39] opened from 127.0.0.1:34030
+Feb 10 11:30 : client: [38] closed
+Feb 10 13:02 : client: [40] opened from 127.0.0.1:35138
+Feb 10 13:02 : client: [40] closed
+Feb 10 13:02 : client: [41] opened from 127.0.0.1:35142
+Feb 10 13:02 : client: [41] closed
+Feb 10 13:10 : client: [42] opened from 127.0.0.1:35472
+Feb 10 13:10 : client: [42] closed
+Feb 10 13:10 : client: [43] opened from 127.0.0.1:35476
+Feb 10 13:10 : client: [43] closed
+Feb 10 13:10 : client: [44] opened from 127.0.0.1:35480
+Feb 10 13:10 : client: [44] closed
+Feb 10 13:10 : client: [45] opened from 127.0.0.1:35484
+Feb 10 13:10 : client: [45] closed
+Feb 10 13:10 : client: [46] opened from 127.0.0.1:35488
+Feb 10 13:10 : client: [46] closed
+Feb 10 13:10 : client: [47] opened from 127.0.0.1:35492
+Feb 10 13:10 : client: [47] closed
+Feb 10 13:10 : client: [48] opened from 127.0.0.1:35514
+Feb 10 13:10 : client: [48] closed
+Feb 10 13:10 : client: [49] opened from 127.0.0.1:35518
+Feb 10 13:10 : client: [49] closed
+Feb 10 13:10 : client: [50] opened from 127.0.0.1:35522
+Feb 10 13:10 : client: [50] closed
+Feb 10 13:10 : client: [51] opened from 127.0.0.1:35526
+Feb 10 13:10 : client: [51] closed
+Feb 10 13:10 : client: [52] opened from 127.0.0.1:35530
+Feb 10 13:10 : client: [52] closed
+Feb 10 13:10 : client: [53] opened from 127.0.0.1:35534
+Feb 10 13:10 : client: [53] closed
+Feb 10 13:20 : client: [54] opened from 127.0.0.1:36242
+Feb 10 13:20 : client: [55] opened from 127.0.0.1:36246
+Feb 10 13:20 : client: [39] closed
+Feb 10 13:20 : client: [54] closed
+Feb 10 13:20 : client: [55] closed
+Feb 10 13:20 : client: [56] opened from 127.0.0.1:36250
+Feb 10 13:20 : client: [57] opened from 127.0.0.1:36254
+Feb 10 13:20 : client: [57] closed
+Feb 10 13:20 : client: [58] opened from 127.0.0.1:36258
+Feb 10 13:20 : client: [56] closed
+Feb 10 13:20 : client: [58] closed
+Feb 10 13:20 : client: [59] opened from 127.0.0.1:36262
+Feb 10 13:20 : client: [60] opened from 127.0.0.1:36266
+Feb 10 13:20 : client: [59] closed
+Feb 10 13:20 : client: [61] opened from 127.0.0.1:36270
+Feb 10 13:20 : client: [60] closed
+Feb 10 13:20 : client: [61] closed
+Feb 10 13:20 : client: [62] opened from 127.0.0.1:36274
+Feb 10 13:20 : client: [63] opened from 127.0.0.1:36278
+Feb 10 13:20 : client: [62] closed
+Feb 10 13:20 : client: [64] opened from 127.0.0.1:36282
+Feb 10 13:20 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 10 13:20 : client: [63] closed
+Feb 10 13:20 : client: [64] closed
+Feb 10 13:20 : client: [65] opened from 127.0.0.1:36286
+Feb 10 13:20 : client: [66] opened from 127.0.0.1:36290
+Feb 10 13:20 : client: [65] closed
+Feb 10 13:20 : client: [66] closed
+Feb 10 13:20 : client: [67] opened from 127.0.0.1:36294
+Feb 10 13:20 : client: [67] closed
+Feb 10 13:20 : client: [68] opened from 127.0.0.1:36298
+Feb 10 13:20 : client: [69] opened from 127.0.0.1:36302
+Feb 10 13:20 : client: [68] closed
+Feb 10 13:20 : client: [69] closed
+Feb 10 13:20 : client: [70] opened from 127.0.0.1:36306
+Feb 10 13:20 : client: [70] closed
+Feb 10 13:20 : client: [71] opened from 127.0.0.1:36310
+Feb 10 13:21 : client: [72] opened from 127.0.0.1:36314
+Feb 10 13:21 : client: [71] closed
+Feb 10 13:21 : client: [72] closed
+Feb 10 13:21 : client: [73] opened from 127.0.0.1:36318
+Feb 10 13:21 : client: [73] closed
+Feb 10 13:21 : client: [74] opened from 127.0.0.1:36322
+Feb 10 13:21 : client: [75] opened from 127.0.0.1:36326
+Feb 10 13:21 : client: [74] closed
+Feb 10 13:21 : client: [75] closed
+Feb 10 13:21 : client: [76] opened from 127.0.0.1:36330
+Feb 10 13:21 : client: [77] opened from 127.0.0.1:36334
+Feb 10 13:21 : client: [76] closed
+Feb 10 13:21 : client: [78] opened from 127.0.0.1:36338
+Feb 10 13:21 : client: [77] closed
+Feb 10 13:21 : client: [78] closed
+Feb 10 13:21 : client: [79] opened from 127.0.0.1:36342
+Feb 10 13:21 : client: [80] opened from 127.0.0.1:36346
+Feb 10 13:21 : client: [81] opened from 127.0.0.1:36350
+Feb 10 13:21 : client: [80] closed
+Feb 10 13:21 : client: [79] closed
+Feb 10 13:21 : client: [82] opened from 127.0.0.1:36354
+Feb 10 13:21 : client: [81] closed
+Feb 10 13:21 : client: [82] closed
+Feb 10 13:21 : client: [83] opened from 127.0.0.1:36358
+Feb 10 13:21 : client: [84] opened from 127.0.0.1:36362
+Feb 10 13:21 : client: [84] closed
+Feb 10 13:21 : client: [85] opened from 127.0.0.1:36366
+Feb 10 13:21 : client: [83] closed
+Feb 10 13:21 : client: [85] closed
+Feb 10 13:21 : client: [86] opened from 127.0.0.1:36370
+Feb 10 13:21 : client: [87] opened from 127.0.0.1:36374
+Feb 10 13:21 : client: [86] closed
+Feb 10 13:21 : client: [88] opened from 127.0.0.1:36378
+Feb 10 13:21 : client: [87] closed
+Feb 10 13:21 : client: [88] closed
+Feb 10 13:21 : client: [89] opened from 127.0.0.1:36382
+Feb 10 13:21 : client: [90] opened from 127.0.0.1:36386
+Feb 10 13:21 : client: [89] closed
+Feb 10 13:21 : client: [91] opened from 127.0.0.1:36390
+Feb 10 13:21 : client: [90] closed
+Feb 10 13:21 : client: [91] closed
+Feb 10 13:21 : client: [92] opened from 127.0.0.1:36394
+Feb 10 13:21 : client: [93] opened from 127.0.0.1:36398
+Feb 10 13:21 : client: [92] closed
+Feb 10 13:45 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 10 13:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 13:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 13:46 : client: [0] opened from 127.0.0.1:50072
+Feb 10 13:46 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 10 13:46 : client: [1] opened from 127.0.0.1:50078
+Feb 10 13:46 : client: [1] closed
+Feb 10 13:47 : client: [2] opened from 127.0.0.1:50242
+Feb 10 13:47 : client: [2] closed
+Feb 10 13:47 : client: [3] opened from 127.0.0.1:50246
+Feb 10 13:47 : client: [3] closed
+Feb 10 13:47 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 11 17:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 17:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 17:30 : client: [0] opened from 127.0.0.1:35604
+Feb 11 17:30 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 11 17:30 : client: [1] opened from 127.0.0.1:35610
+Feb 11 17:30 : client: [1] closed
+Feb 11 17:57 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:17 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:17 : client: [0] opened from 127.0.0.1:34134
+Feb 12 21:17 : client: [1] opened from 127.0.0.1:34138
+Feb 12 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:17 : client: [1] closed
+Feb 12 21:17 : client: [2] opened from 127.0.0.1:34142
+Feb 12 21:17 : client: [2] closed
+Feb 12 21:17 : client: [3] opened from 127.0.0.1:34146
+Feb 12 21:17 : client: [3] closed
+Feb 12 21:17 : client: [4] opened from 127.0.0.1:34150
+Feb 12 21:17 : client: [4] closed
+Feb 12 21:17 : client: [0] closed
+Feb 12 21:17 : client: [5] opened from 127.0.0.1:34154
+Feb 12 21:17 : client: [5] closed
+Feb 12 21:17 : client: [6] opened from 127.0.0.1:34162
+Feb 12 21:17 : client: [6] closed
+Feb 12 21:17 : client: [7] opened from 127.0.0.1:34166
+Feb 12 21:17 : client: [7] closed
+Feb 12 21:17 : client: [8] opened from 127.0.0.1:34170
+Feb 12 21:17 : client: [8] closed
+Feb 12 21:17 : client: [9] opened from 127.0.0.1:34174
+Feb 12 21:17 : client: [9] closed
+Feb 12 21:17 : client: [10] opened from 127.0.0.1:34178
+Feb 12 21:17 : client: [10] closed
+Feb 12 21:17 : client: [11] opened from 127.0.0.1:34182
+Feb 12 21:17 : client: [11] closed
+Feb 12 21:17 : client: [12] opened from 127.0.0.1:34186
+Feb 12 21:17 : client: [12] closed
+Feb 12 21:17 : client: [13] opened from 127.0.0.1:34190
+Feb 12 21:17 : client: [13] closed
+Feb 12 21:17 : client: [14] opened from 127.0.0.1:34194
+Feb 12 21:17 : client: [14] closed
+Feb 12 21:18 : client: [15] opened from 127.0.0.1:34198
+Feb 12 21:18 : client: [15] closed
+Feb 12 21:18 : client: [16] opened from 127.0.0.1:34202
+Feb 12 21:18 : client: [17] opened from 127.0.0.1:34206
+Feb 12 21:18 : client: [18] opened from 127.0.0.1:34210
+Feb 12 21:18 : client: [18] closed
+Feb 12 21:18 : client: [17] closed
+Feb 12 21:18 : client: [16] closed
+Feb 12 21:18 : client: [19] opened from 127.0.0.1:34214
+Feb 12 21:18 : client: [20] opened from 127.0.0.1:34218
+Feb 12 21:18 : client: [20] closed
+Feb 12 21:18 : client: [21] opened from 127.0.0.1:34222
+Feb 12 21:18 : client: [21] closed
+Feb 12 21:19 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:19 : client: [0] opened from 127.0.0.1:34234
+Feb 12 21:19 : client: [0] closed
+Feb 12 21:19 : client: [1] opened from 127.0.0.1:34238
+Feb 12 21:19 : client: [1] closed
+Feb 12 21:19 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:19 : client: [2] opened from 127.0.0.1:34242
+Feb 12 21:19 : client: [2] closed
+Feb 12 21:19 : client: [3] opened from 127.0.0.1:34246
+Feb 12 21:19 : client: [3] closed
+Feb 12 21:19 : client: [4] opened from 127.0.0.1:34250
+Feb 12 21:19 : client: [4] closed
+Feb 12 21:19 : client: [5] opened from 127.0.0.1:34254
+Feb 12 21:19 : client: [5] closed
+Feb 12 21:19 : client: [6] opened from 127.0.0.1:34258
+Feb 12 21:19 : client: [6] closed
+Feb 12 21:19 : client: [7] opened from 127.0.0.1:34262
+Feb 12 21:19 : client: [7] closed
+Feb 12 21:19 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:19 : client: [0] opened from 127.0.0.1:34282
+Feb 12 21:19 : client: [0] closed
+Feb 12 21:19 : client: [1] opened from 127.0.0.1:34286
+Feb 12 21:19 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:21 : client: [2] opened from 127.0.0.1:34292
+Feb 12 21:21 : client: [3] opened from 127.0.0.1:34296
+Feb 12 21:21 : client: [3] closed
+Feb 12 21:21 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : client: [0] opened from 127.0.0.1:34304
+Feb 12 21:21 : client: [0] closed
+Feb 12 21:21 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : client: [0] opened from 127.0.0.1:34308
+Feb 12 21:21 : client: [0] closed
+Feb 12 21:21 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:21 : client: [1] opened from 127.0.0.1:34312
+Feb 12 21:21 : client: [2] opened from 127.0.0.1:34316
+Feb 12 21:21 : client: [2] closed
+Feb 12 21:21 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:21 : client: [0] opened from 127.0.0.1:34324
+Feb 12 21:21 : client: [0] closed
+Feb 12 21:21 : client: [1] opened from 127.0.0.1:34328
+Feb 12 21:21 : client: [1] closed
+Feb 12 21:21 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:21 : client: [2] opened from 127.0.0.1:34332
+Feb 12 21:21 : client: [2] closed
+Feb 12 21:21 : client: [3] opened from 127.0.0.1:34336
+Feb 12 21:21 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [0] opened from 127.0.0.1:34496
+Feb 12 21:22 : client: [0] closed
+Feb 12 21:22 : client: [1] opened from 127.0.0.1:34500
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [1] closed
+Feb 12 21:22 : client: [2] opened from 127.0.0.1:34504
+Feb 12 21:22 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:22 : client: [3] opened from 127.0.0.1:34508
+Feb 12 21:22 : client: [3] closed
+Feb 12 21:22 : client: [2] closed
+Feb 12 21:22 : client: [4] opened from 127.0.0.1:34512
+Feb 12 21:22 : client: [4] closed
+Feb 12 21:22 : client: [5] opened from 127.0.0.1:34516
+Feb 12 21:22 : client: [5] closed
+Feb 12 21:22 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 12 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [0] opened from 127.0.0.1:34520
+Feb 12 21:22 : client: [0] closed
+Feb 12 21:22 : client: [1] opened from 127.0.0.1:34524
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [1] closed
+Feb 12 21:22 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:22 : client: [2] opened from 127.0.0.1:34528
+Feb 12 21:22 : client: [2] closed
+Feb 12 21:22 : client: [3] opened from 127.0.0.1:34532
+Feb 12 21:22 : client: [3] closed
+Feb 12 21:22 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 05 - Diagon Alley.mp3"
+Feb 12 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [0] opened from 127.0.0.1:34556
+Feb 12 21:22 : client: [0] closed
+Feb 12 21:22 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 12 21:22 : client: [1] opened from 127.0.0.1:34560
+Feb 12 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 21:22 : client: [1] closed
+Feb 12 21:22 : client: [2] opened from 127.0.0.1:34564
+Feb 12 21:22 : client: [2] closed
+Feb 12 21:23 : client: [3] opened from 127.0.0.1:34568
+Feb 12 21:23 : client: [3] closed
+Feb 12 21:23 : client: [4] opened from 127.0.0.1:34572
+Feb 12 21:23 : client: [4] closed
+Feb 12 21:23 : client: [5] opened from 127.0.0.1:34576
+Feb 12 21:23 : client: [5] closed
+Feb 12 22:41 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 08 - The Potions Master.mp3"
+Feb 13 06:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 06:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 06:14 : client: [0] opened from 127.0.0.1:52076
+Feb 13 06:14 : client: [1] opened from 127.0.0.1:52080
+Feb 13 06:14 : client: [0] closed
+Feb 13 06:14 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 13 06:14 : client: [1] closed
+Feb 13 06:14 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 08 - The Potions Master.mp3"
+Feb 13 21:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 21:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 21:24 : client: [0] opened from 127.0.0.1:42830
+Feb 13 21:24 : client: [0] closed
+Feb 13 21:24 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 13 21:48 : client: [1] opened from 127.0.0.1:43120
+Feb 13 21:48 : client: [1] closed
+Feb 13 21:58 : client: [2] opened from 127.0.0.1:43202
+Feb 13 21:58 : client: [2] closed
+Feb 13 21:58 : client: [3] opened from 127.0.0.1:43206
+Feb 13 21:58 : client: [3] closed
+Feb 14 04:30 : client: [4] opened from 127.0.0.1:45576
+Feb 14 04:30 : client: [4] closed
+Feb 14 04:31 : client: [5] opened from 127.0.0.1:45580
+Feb 14 04:31 : client: [5] closed
+Feb 14 09:52 : client: [6] opened from 127.0.0.1:45778
+Feb 14 09:52 : client: [7] opened from 127.0.0.1:45782
+Feb 14 09:52 : client: [7] closed
+Feb 14 09:52 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 08 - The Potions Master.mp3"
+Feb 14 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 14:36 : client: [0] opened from 127.0.0.1:50570
+Feb 14 14:36 : client: [0] closed
+Feb 14 14:36 : client: [1] opened from 127.0.0.1:50574
+Feb 14 14:36 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 14 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 14:36 : client: [2] opened from 127.0.0.1:50578
+Feb 14 14:36 : client: [2] closed
+Feb 14 14:36 : client: [1] closed
+Feb 14 14:36 : client: [3] opened from 127.0.0.1:50582
+Feb 14 14:36 : client: [3] closed
+Feb 14 14:36 : client: [4] opened from 127.0.0.1:50586
+Feb 14 14:36 : client: [4] closed
+Feb 14 14:36 : player: played "Music/Queen - The Ultimate Best Of Queen (2011) [mp3][www.lokotorrents.com]/01. Made In Heaven.mp3"
+Feb 14 22:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 22:38 : client: [0] opened from 127.0.0.1:48242
+Feb 14 22:38 : client: [0] closed
+Feb 14 22:38 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 14 22:38 : client: [1] opened from 127.0.0.1:48246
+Feb 14 22:38 : client: [2] opened from 127.0.0.1:48250
+Feb 14 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 22:38 : client: [2] closed
+Feb 14 22:38 : client: [3] opened from 127.0.0.1:48254
+Feb 14 22:38 : client: [3] closed
+Feb 14 22:38 : client: [4] opened from 127.0.0.1:48258
+Feb 14 22:38 : client: [4] closed
+Feb 14 22:38 : client: [5] opened from 127.0.0.1:48262
+Feb 14 22:38 : client: [5] closed
+Feb 14 22:38 : client: [6] opened from 127.0.0.1:48266
+Feb 14 22:38 : client: [6] closed
+Feb 14 22:38 : client: [7] opened from 127.0.0.1:48272
+Feb 14 22:38 : client: [7] closed
+Feb 14 22:38 : client: [8] opened from 127.0.0.1:48276
+Feb 14 22:38 : client: [8] closed
+Feb 14 22:38 : client: [9] opened from 127.0.0.1:48280
+Feb 14 22:38 : client: [9] closed
+Feb 14 22:39 : client: [10] opened from 127.0.0.1:48284
+Feb 14 22:39 : client: [10] closed
+Feb 14 22:39 : client: [1] closed
+Feb 15 01:24 : client: [11] opened from 127.0.0.1:49004
+Feb 15 01:24 : client: [11] closed
+Feb 15 01:24 : client: [12] opened from 127.0.0.1:49008
+Feb 15 01:24 : client: [12] closed
+Feb 15 01:24 : client: [13] opened from 127.0.0.1:49012
+Feb 15 01:24 : client: [13] closed
+Feb 15 01:24 : client: [14] opened from 127.0.0.1:49016
+Feb 15 01:24 : client: [14] closed
+Feb 15 01:46 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 02 - The Vanishing Glass.mp3"
+Feb 15 02:11 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 03 - The Letters From No One.mp3"
+Feb 15 02:36 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 04 - The Keeper of the Keys.mp3"
+Feb 15 03:04 : client: [15] opened from 127.0.0.1:49168
+Feb 15 03:04 : client: [15] closed
+Feb 15 03:04 : client: [16] opened from 127.0.0.1:49172
+Feb 15 03:04 : client: [16] closed
+Feb 15 06:34 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 05 - Diagon Alley.mp3"
+Feb 17 09:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 09:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 09:09 : client: [0] opened from 127.0.0.1:43420
+Feb 17 09:09 : client: [0] closed
+Feb 17 09:09 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 09:12 : client: [1] opened from 127.0.0.1:43486
+Feb 17 09:12 : client: [2] opened from 127.0.0.1:43490
+Feb 17 09:12 : client: [2] closed
+Feb 17 09:12 : client: [3] opened from 127.0.0.1:43494
+Feb 17 09:12 : client: [3] closed
+Feb 17 09:12 : client: [4] opened from 127.0.0.1:43498
+Feb 17 09:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 09:12 : client: [1] closed
+Feb 17 09:12 : client: [4] closed
+Feb 17 09:12 : client: [5] opened from 127.0.0.1:43502
+Feb 17 09:12 : client: [6] opened from 127.0.0.1:43506
+Feb 17 09:12 : client: [5] closed
+Feb 17 09:12 : client: [7] opened from 127.0.0.1:43512
+Feb 17 09:12 : client: [6] closed
+Feb 17 09:12 : client: [7] closed
+Feb 17 09:12 : client: [8] opened from 127.0.0.1:43516
+Feb 17 09:12 : client: [8] closed
+Feb 17 09:12 : client: [9] opened from 127.0.0.1:43520
+Feb 17 09:12 : client: [10] opened from 127.0.0.1:43526
+Feb 17 09:12 : client: [10] closed
+Feb 17 09:16 : client: [11] opened from 127.0.0.1:43610
+Feb 17 09:16 : client: [11] closed
+Feb 17 09:16 : client: [12] opened from 127.0.0.1:43614
+Feb 17 09:16 : client: [12] closed
+Feb 17 09:16 : client: [13] opened from 127.0.0.1:43618
+Feb 17 09:16 : client: [13] closed
+Feb 17 09:17 : client: [14] opened from 127.0.0.1:43622
+Feb 17 09:17 : client: [14] closed
+Feb 17 09:17 : client: [15] opened from 127.0.0.1:43626
+Feb 17 09:17 : client: [15] closed
+Feb 17 09:17 : client: [16] opened from 127.0.0.1:43630
+Feb 17 09:17 : client: [16] closed
+Feb 17 09:18 : client: [17] opened from 127.0.0.1:43656
+Feb 17 09:18 : client: [17] closed
+Feb 17 09:18 : client: [18] opened from 127.0.0.1:43714
+Feb 17 09:18 : client: [18] closed
+Feb 17 09:19 : client: [19] opened from 127.0.0.1:43722
+Feb 17 09:19 : client: [19] closed
+Feb 17 09:20 : client: [20] opened from 127.0.0.1:43780
+Feb 17 09:20 : client: [20] closed
+Feb 17 09:20 : client: [21] opened from 127.0.0.1:43784
+Feb 17 09:20 : client: [21] closed
+Feb 17 09:22 : client: [22] opened from 127.0.0.1:43804
+Feb 17 09:22 : client: [22] closed
+Feb 17 09:23 : client: [23] opened from 127.0.0.1:44072
+Feb 17 09:23 : client: [23] closed
+Feb 17 09:23 : client: [24] opened from 127.0.0.1:44088
+Feb 17 09:23 : client: [24] closed
+Feb 17 09:24 : client: [25] opened from 127.0.0.1:44096
+Feb 17 09:24 : client: [25] closed
+Feb 17 09:24 : client: [26] opened from 127.0.0.1:44100
+Feb 17 09:24 : client: [26] closed
+Feb 17 09:24 : client: [27] opened from 127.0.0.1:44104
+Feb 17 09:24 : client: [27] closed
+Feb 17 09:25 : client: [28] opened from 127.0.0.1:44108
+Feb 17 09:25 : client: [28] closed
+Feb 17 09:43 : client: [29] opened from 127.0.0.1:45580
+Feb 17 09:43 : client: [29] closed
+Feb 17 09:50 : client: [30] opened from 127.0.0.1:45978
+Feb 17 09:50 : client: [9] closed
+Feb 17 09:50 : client: [30] closed
+Feb 17 09:50 : client: [31] opened from 127.0.0.1:45982
+Feb 17 09:50 : client: [31] closed
+Feb 17 09:50 : client: [32] opened from 127.0.0.1:45986
+Feb 17 09:50 : client: [33] opened from 127.0.0.1:45990
+Feb 17 09:50 : client: [32] closed
+Feb 17 09:50 : client: [33] closed
+Feb 17 09:50 : client: [34] opened from 127.0.0.1:45994
+Feb 17 09:50 : client: [35] opened from 127.0.0.1:45998
+Feb 17 09:50 : client: [35] closed
+Feb 17 09:50 : client: [36] opened from 127.0.0.1:46002
+Feb 17 09:50 : client: [34] closed
+Feb 17 09:50 : client: [36] closed
+Feb 17 09:50 : client: [37] opened from 127.0.0.1:46006
+Feb 17 09:50 : client: [38] opened from 127.0.0.1:46010
+Feb 17 09:50 : client: [37] closed
+Feb 17 09:50 : client: [39] opened from 127.0.0.1:46014
+Feb 17 09:50 : client: [38] closed
+Feb 17 09:50 : client: [39] closed
+Feb 17 09:50 : client: [40] opened from 127.0.0.1:46018
+Feb 17 09:50 : client: [41] opened from 127.0.0.1:46022
+Feb 17 09:50 : client: [40] closed
+Feb 17 09:50 : client: [42] opened from 127.0.0.1:46026
+Feb 17 09:50 : client: [41] closed
+Feb 17 09:50 : client: [42] closed
+Feb 17 09:50 : client: [43] opened from 127.0.0.1:46030
+Feb 17 09:50 : client: [43] closed
+Feb 17 09:50 : client: [44] opened from 127.0.0.1:46034
+Feb 17 09:50 : client: [45] opened from 127.0.0.1:46038
+Feb 17 09:50 : client: [44] closed
+Feb 17 09:50 : client: [45] closed
+Feb 17 09:50 : client: [46] opened from 127.0.0.1:46042
+Feb 17 09:50 : client: [47] opened from 127.0.0.1:46046
+Feb 17 09:50 : client: [46] closed
+Feb 17 09:50 : client: [48] opened from 127.0.0.1:46050
+Feb 17 09:50 : client: [47] closed
+Feb 17 09:50 : client: [48] closed
+Feb 17 09:50 : client: [49] opened from 127.0.0.1:46054
+Feb 17 09:50 : client: [50] opened from 127.0.0.1:46058
+Feb 17 09:50 : client: [49] closed
+Feb 17 09:50 : client: [51] opened from 127.0.0.1:46062
+Feb 17 09:50 : client: [50] closed
+Feb 17 09:50 : client: [51] closed
+Feb 17 09:50 : client: [52] opened from 127.0.0.1:46066
+Feb 17 09:50 : client: [53] opened from 127.0.0.1:46070
+Feb 17 09:50 : client: [52] closed
+Feb 17 09:50 : client: [54] opened from 127.0.0.1:46074
+Feb 17 09:50 : client: [53] closed
+Feb 17 09:50 : client: [54] closed
+Feb 17 09:50 : client: [55] opened from 127.0.0.1:46078
+Feb 17 09:50 : client: [55] closed
+Feb 17 09:50 : client: [56] opened from 127.0.0.1:46082
+Feb 17 09:50 : client: [57] opened from 127.0.0.1:46086
+Feb 17 09:50 : client: [56] closed
+Feb 17 09:50 : client: [57] closed
+Feb 17 09:50 : client: [58] opened from 127.0.0.1:46090
+Feb 17 09:50 : client: [58] closed
+Feb 17 09:50 : client: [59] opened from 127.0.0.1:46094
+Feb 17 09:50 : client: [60] opened from 127.0.0.1:46098
+Feb 17 09:50 : client: [59] closed
+Feb 17 09:50 : client: [60] closed
+Feb 17 09:50 : client: [61] opened from 127.0.0.1:46102
+Feb 17 09:50 : client: [62] opened from 127.0.0.1:46106
+Feb 17 09:50 : client: [62] closed
+Feb 17 09:50 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 17 10:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 10:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 10:13 : client: [0] opened from 127.0.0.1:47326
+Feb 17 10:13 : client: [0] closed
+Feb 17 10:13 : client: [1] opened from 127.0.0.1:47330
+Feb 17 10:13 : client: [1] closed
+Feb 17 10:13 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 10:13 : client: [2] opened from 127.0.0.1:47334
+Feb 17 10:13 : client: [2] closed
+Feb 17 10:13 : client: [3] opened from 127.0.0.1:47340
+Feb 17 10:13 : client: [3] closed
+Feb 17 10:13 : client: [4] opened from 127.0.0.1:47344
+Feb 17 10:13 : client: [4] closed
+Feb 17 10:51 : client: [5] opened from 127.0.0.1:48516
+Feb 17 10:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 10:51 : client: [5] closed
+Feb 17 10:51 : client: [6] opened from 127.0.0.1:48520
+Feb 17 10:51 : client: [7] opened from 127.0.0.1:48524
+Feb 17 10:51 : client: [7] closed
+Feb 17 10:51 : client: [6] closed
+Feb 17 12:28 : client: [8] opened from 127.0.0.1:51260
+Feb 17 12:28 : client: [9] opened from 127.0.0.1:51264
+Feb 17 12:28 : client: [9] closed
+Feb 17 12:28 : client: [10] opened from 127.0.0.1:51268
+Feb 17 12:28 : client: [10] closed
+Feb 17 12:28 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 17 12:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:37 : client: [0] opened from 127.0.0.1:51734
+Feb 17 12:37 : client: [0] closed
+Feb 17 12:37 : client: [1] opened from 127.0.0.1:51738
+Feb 17 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:37 : client: [1] closed
+Feb 17 12:37 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 12:37 : client: [2] opened from 127.0.0.1:51744
+Feb 17 12:37 : client: [3] opened from 127.0.0.1:51770
+Feb 17 12:37 : client: [3] closed
+Feb 17 12:37 : client: [2] closed
+Feb 17 12:37 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 17 12:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [0] opened from 127.0.0.1:51784
+Feb 17 12:38 : client: [0] closed
+Feb 17 12:38 : client: [1] opened from 127.0.0.1:51788
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [1] closed
+Feb 17 12:38 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 12:38 : client: [2] opened from 127.0.0.1:51816
+Feb 17 12:38 : client: [3] opened from 127.0.0.1:51820
+Feb 17 12:38 : client: [3] closed
+Feb 17 12:38 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 17 12:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [0] opened from 127.0.0.1:51828
+Feb 17 12:38 : client: [0] closed
+Feb 17 12:38 : client: [1] opened from 127.0.0.1:51832
+Feb 17 12:38 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [1] closed
+Feb 17 12:38 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 17 12:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [0] opened from 127.0.0.1:51838
+Feb 17 12:38 : client: [0] closed
+Feb 17 12:38 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 17 12:38 : client: [1] opened from 127.0.0.1:51842
+Feb 17 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:38 : client: [1] closed
+Feb 17 12:38 : client: [2] opened from 127.0.0.1:51846
+Feb 17 12:38 : client: [2] closed
+Feb 17 12:38 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 19 19:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 19:20 : client: [0] opened from 127.0.0.1:33158
+Feb 19 19:20 : client: [0] closed
+Feb 19 19:20 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 20 06:11 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 01 - Harry Potter and the Philosopher's Stone/Chapter 12 - The Mirror of Erised.mp3"
+Feb 21 13:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 13:40 : client: [0] opened from 127.0.0.1:33916
+Feb 21 13:40 : client: [1] opened from 127.0.0.1:33920
+Feb 21 13:40 : client: [0] closed
+Feb 21 13:40 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 21 13:40 : client: [2] opened from 127.0.0.1:33924
+Feb 21 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 13:40 : client: [2] closed
+Feb 21 13:40 : client: [3] opened from 127.0.0.1:33928
+Feb 21 13:40 : client: [3] closed
+Feb 21 13:41 : exception: Failed to open /home/larbs/.config/mpd/playlists: No such file or directory
+Feb 21 13:42 : client: [1] closed
+Feb 21 13:42 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 22 19:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 19:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 19:14 : client: [0] opened from 127.0.0.1:42342
+Feb 22 19:14 : client: [0] closed
+Feb 22 19:14 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 23 01:19 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 23 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 15:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 15:12 : client: [0] opened from 127.0.0.1:33604
+Feb 23 15:12 : client: [0] closed
+Feb 23 15:12 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 23 15:13 : client: [1] opened from 127.0.0.1:33630
+Feb 23 15:13 : client: [1] closed
+Feb 23 17:52 : client: [2] opened from 127.0.0.1:35588
+Feb 23 17:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 17:52 : client: [2] closed
+Feb 23 17:52 : client: [3] opened from 127.0.0.1:35592
+Feb 23 17:52 : player: played "Podcasts/Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME.opus"
+Feb 23 17:52 : client: [3] closed
+Feb 23 17:52 : client: [4] opened from 127.0.0.1:35596
+Feb 23 17:53 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/03 Lana Del Rey - Blue Jeans.mp3"
+Feb 24 20:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:49 : client: [0] opened from 127.0.0.1:55504
+Feb 24 20:49 : client: [1] opened from 127.0.0.1:55508
+Feb 24 20:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:49 : client: [0] closed
+Feb 24 20:49 : client: [1] closed
+Feb 24 20:49 : avahi: Service 'Music Player @ gaurav-pc' successfully established.
+Feb 24 20:49 : client: [2] opened from 127.0.0.1:55512
+Feb 24 20:49 : player: played "Music/Lana Del Rey - Born To Die (The Paradise Edition) [2012- Album] [2CD] (Real Version) 320 kbps CBR VYTO [VX] [P2PDL]/Disc 1/03 Lana Del Rey - Blue Jeans.mp3"
+Mar 15 13:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 13:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 13:07 : client: [0] opened from 127.0.0.1:49446
+Mar 15 13:07 : client: [1] opened from 127.0.0.1:49448
+Mar 15 13:07 : client: [0] closed
+Mar 15 13:07 : avahi: Service 'Music Player @ manjaro' successfully established.
+Mar 15 13:07 : client: [2] opened from 127.0.0.1:49452
+Mar 15 13:07 : client: [2] closed
+Mar 15 13:07 : client: [3] opened from 127.0.0.1:49454
+Mar 15 13:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 13:07 : client: [3] closed
+Mar 15 13:07 : client: [4] opened from 127.0.0.1:49456
+Mar 15 13:07 : client: [4] closed
+Mar 15 13:07 : client: [5] opened from 127.0.0.1:49458
+Mar 15 13:07 : client: [5] closed
+Mar 15 13:07 : client: [6] opened from 127.0.0.1:49460
+Mar 15 13:07 : client: [6] closed
+Mar 15 13:09 : client: [1] closed
+Mar 15 13:09 : client: [7] opened from 127.0.0.1:49462
+Mar 15 13:10 : client: [7] closed
+Mar 15 13:10 : client: [8] opened from 127.0.0.1:49464
+Mar 15 13:10 : client: [8] closed
+Mar 15 13:10 : client: [9] opened from 127.0.0.1:49466
+Mar 15 13:10 : client: [9] closed
+Mar 15 13:10 : client: [10] opened from 127.0.0.1:49468
+Mar 15 13:12 : client: [10] closed
+Mar 15 13:12 : client: [11] opened from 127.0.0.1:49484
+Mar 15 13:12 : client: [12] opened from 127.0.0.1:49486
+Mar 15 13:12 : client: [12] closed
+Mar 15 13:12 : client: [13] opened from 127.0.0.1:49492
+Mar 15 13:12 : client: [13] closed
+Mar 15 13:13 : client: [11] closed
+Mar 15 13:13 : client: [14] opened from 127.0.0.1:49496
+Mar 15 13:14 : client: [15] opened from 127.0.0.1:49498
+Mar 15 13:14 : client: [15] closed
+Mar 15 13:14 : client: [16] opened from 127.0.0.1:49500
+Mar 15 13:14 : client: [16] closed
+Mar 15 13:14 : client: [14] closed
+Mar 15 13:15 : client: [17] opened from 127.0.0.1:49504
+Mar 15 13:15 : client: [18] opened from 127.0.0.1:49506
+Mar 15 13:16 : client: [19] opened from 127.0.0.1:49512
+Mar 15 13:16 : client: [19] closed
+Mar 15 13:16 : client: [20] opened from 127.0.0.1:49514
+Mar 15 13:16 : client: [20] closed
+Mar 15 13:16 : client: [21] opened from 127.0.0.1:49516
+Mar 15 13:16 : client: [21] closed
+Mar 15 13:17 : client: [17] closed
+Mar 15 13:17 : client: [18] closed
+Mar 15 13:19 : client: [22] opened from 127.0.0.1:49518
+Mar 15 13:19 : client: [22] closed
+Mar 15 13:19 : client: [23] opened from 127.0.0.1:49520
+Mar 15 13:19 : client: [23] closed
+Mar 15 13:19 : client: [24] opened from 127.0.0.1:49522
+Mar 15 13:19 : client: [24] closed
+Mar 15 13:19 : client: [25] opened from 127.0.0.1:49524
+Mar 15 13:19 : client: [25] closed
+Mar 15 13:19 : client: [26] opened from 127.0.0.1:49526
+Mar 15 13:20 : client: [26] closed
+Mar 15 13:20 : client: [27] opened from 127.0.0.1:49528
+Mar 15 13:20 : client: [27] closed
+Mar 15 13:20 : client: [28] opened from 127.0.0.1:49536
+Mar 15 13:21 : client: [28] closed
+Mar 15 13:21 : client: [29] opened from 127.0.0.1:49538
+Mar 15 13:21 : client: [29] closed
+Mar 15 13:21 : client: [30] opened from 127.0.0.1:49540
+Mar 15 13:21 : client: [31] opened from 127.0.0.1:49544
+Mar 15 13:21 : client: [32] opened from 127.0.0.1:49548
+Mar 15 13:21 : client: [32] closed
+Mar 15 13:21 : client: [33] opened from 127.0.0.1:49552
+Mar 15 13:21 : client: [33] closed
+Mar 15 13:21 : client: [30] closed
+Mar 15 13:21 : client: [34] opened from 127.0.0.1:49554
+Mar 15 13:21 : client: [34] closed
+Mar 15 13:21 : client: [35] opened from 127.0.0.1:49556
+Mar 15 13:25 : client: [35] closed
+Mar 15 13:25 : player: played "Audio Books/Harry Potter Audio Books 1-7; Read by Stephen Fry [MP3]/Book 02 - Harry Potter and the Chamber of Secrets/Chapter 01 - The Worst Birthday.mp3"
