@@ -5,20 +5,24 @@ markup=pango
 #[activewindow]
 #interval=0
 
-[record]
-command=cat /tmp/recordingicon
-interval=once
-signal=9
+[qbit]
+interval=1
+signal=12
+
+#[record]
+#command=cat /tmp/recordingicon
+#interval=once
+#signal=9
 
 #[music]
 #label=🎼
 #interval=once
 #signal=11
 
-[news]
-label=📰
-interval=once
-signal=6
+#[news]
+#label=📰
+#interval=once
+#signal=6
 
 #[pacpackages]
 #label=📦

@@ -34,7 +34,7 @@ SETUVAR _fish_abbr_cfv:nvim\x20\x7e/\x2evimrc
 SETUVAR _fish_abbr_cfx:nvim\x20\x7e/\x2eXresources
 SETUVAR _fish_abbr_cfz:nvim\x20\x7e/\x2ezshrc
 SETUVAR _fish_abbr_cfzz:nvim\x20\x7e/\x2econfig/zathura/zathurarc
-SETUVAR _fish_abbr_co:code\x20\x2e
+SETUVAR _fish_abbr_co:vscodium\x20\x2e
 SETUVAR _fish_abbr_d:cd\x20\x7e/Documents\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_da:docker\x20attach
 SETUVAR _fish_abbr_db:docker\x20build
