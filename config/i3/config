@@ -479,3 +479,5 @@ exec --no-startup-id numlockx on
 exec /usr/bin/redshift-gtk
 # Home Wifi
 exec --no-startup-id wificonnect
+# Compton
+exec --no-startup-id compton
