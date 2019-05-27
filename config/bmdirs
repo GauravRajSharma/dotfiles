@@ -11,6 +11,7 @@ cff	~/.config/fish
 
 # HDD Directories
 b	/mnt/disk_2/Programming_Contents/Books
+n	/mnt/disk_2/Programming_Contents/Programming/Notes
 vv	/mnt/disk_2/Videos
 ef	/mnt/disk_2/Videos/Entertainment
 wp	/mnt/disk_1/Media/Pictures/Wallpapers

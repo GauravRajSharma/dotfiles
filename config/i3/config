@@ -323,8 +323,8 @@ for_window [class="scrcpy"] floating enable
 #assign [class="Firefox"] workspace $ws1
 assign [class="chromium"] workspace $ws1
 assign [class="Chromium"] workspace $ws1
-assign [class="vscodium"] workspace $ws2
-assign [class="VSCodium"] workspace $ws2
+assign [class="Code"] workspace $ws2
+assign [class="code"] workspace $ws2
 assign [class="Slack"] workspace $ws3
 assign [class="Typora"] workspace $ws6
 assign [class="mpv"] workspace $ws8
@@ -333,7 +333,7 @@ assign [class="mpv"] workspace $ws8
 for_window [class="Spotify"] move to workspace $ws4
 
 # #---Function Buttons---# #
-bindsym $mod+F1		exec --no-startup-id groff -kejpt -mom ~/.readme.mom -Tpdf | zathura -
+#bindsym $mod+F1		exec --no-startup-id groff -kejpt -mom ~/.readme.mom -Tpdf | zathura -
 bindsym $mod+F2		restart
 #bindsym $mod+F3		exec --no-startup-id pkill screenkey || screenkey
 bindsym $mod+F4		exec --no-startup-id prompt "Hibernate computer" "$hibernate"

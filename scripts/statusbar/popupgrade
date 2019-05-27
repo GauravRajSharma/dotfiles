@@ -2,7 +2,7 @@
 
 printf "Beginning upgrade.\\n"
 
-yay -Syu --force
+yay -Syu --overwrite
 pacman -Qu | wc -l > ~/.pacupgrnum
 pkill -RTMIN+8 i3blocks
 

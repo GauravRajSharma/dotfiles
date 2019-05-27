@@ -1,0 +1,2 @@
+#!/bin/sh
+cat /proc/net/dev | grep --color=auto wlp60s0 | awk '{print $2":"$10":"}' | internet-speed

@@ -1,24 +1,34 @@
 #!/bin/python3.7
 import requests as r
 from time import sleep
+import math
 
 
-def get_string(dl_speed, progress):
-    return f'⬇️ {int(dl_speed) * 10 ** -6 :{2}.{3}} MB/s 🚧 {progress:{2}.{3}}%'
+def get_string(progress,eta):
+    return f'🚧 {progress:.2f}% 🕛{eta}'
 
+
+def eta_time(eta):
+    if ((int(eta/60.0))<100):
+        if (int(eta/60.0) < 1):
+                return f'<1m'
+        return f'{int(eta/60.0)}m'
+    else:
+        return f'♾️'
 
 def main():
-    base_url = 'http://localhost:8080'
+    base_url = 'http://localhost:4321'
     filter_params = {'filter': 'active'}
     active_respone = r.get(
         f'{base_url}/query/torrents', params=filter_params)
     response_data = active_respone.json()
     if response_data != []:
-        dl_speed, progress = response_data[0]['dlspeed'], response_data[0]['progress']
+        progress, eta = response_data[0]['progress'], response_data[0]['eta']
         progress = float(progress) * 100
-        print(get_string(dl_speed, progress))
+        eta = eta_time(int(eta))
+        print(get_string(progress,eta))
     else:
-        print(get_string(0, 0.))
+        raise ValueError('No Torrents Running')
 
 
 if __name__ == "__main__":
