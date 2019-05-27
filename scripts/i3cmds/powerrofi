@@ -1,6 +1,6 @@
 #!/bin/sh
 
-MENU="$(rofi -sep "|" -dmenu -i -p 'System' -width 20 -lines 4 -hide-scrollbar <<< " Lock| Logout| Reboot| Shutdown")"
+MENU="$(rofi -sep "|" -dmenu -i -p 'System' -width 20 -lines 4 -hide-scrollbar <<< "- Lock|- Logout|- Reboot|- Shutdown")"
             case "$MENU" in
                 *Lock) lockscreen ;;
                 *Logout) i3-msg exit;;

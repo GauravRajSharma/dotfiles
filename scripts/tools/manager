@@ -19,14 +19,15 @@ def main():
         },
         "Compressed": {
             "ext": ["gz", "xz", "tar", "deb", "zip"]
+        },
+        "Misc":{
+            "ext": ["*"]
         }
     }
 
     for key in extension_.keys():
         if not os.system("mkdir %s/%s 2>/dev/null" % (working_dir, key)):
             print("success")
-        else:
-            print("failed")
     os.system("notify-send \"Done\" ")
 
     for value in extension_:

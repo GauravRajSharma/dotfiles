@@ -10,7 +10,7 @@ l	"ls"
 r	"ranger"
 v	"nvim"
 x	"sxiv -ft *"
-co	"vscodium ."
+co	"code ."
 py	"python"
 ka	"killall"
 rd	"rm -rf"
@@ -83,7 +83,7 @@ tbng	"tb -n @"
 tbcc	"tb --clear"
 
 # Custom Scritps
-se	"du -a ~/Documents/Maintenance/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs -r $EDITOR" # Scripts Folder Search tool
+se	"du -a ~/Documents/linux-worker/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs -r $EDITOR" # Scripts Folder Search tool
 vf	"xdg-open (fzf) 2>/dev/null" # Any folder Search Tool
 yt	"youtube-dl --add-metadata -i" # Youtube Video Download
 yta	"youtube-dl --add-metadata -i -x -f bestaudio/best" # Youtube Audio Only Download

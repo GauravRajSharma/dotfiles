@@ -2,7 +2,7 @@ rofi.show: drun
 rofi.modi: window,ssh,run,drun
 rofi.blur-background : true
 rofi.terminal: st
-rofi.lines: 8
+rofi.lines: 7
 rofi.show-icons: true
-rofi.font: DankMono 20
+rofi.font: DankMono 17
 rofi.theme: Monokai2.rasi

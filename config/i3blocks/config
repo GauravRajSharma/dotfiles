@@ -5,14 +5,14 @@ markup=pango
 #[activewindow]
 #interval=0
 
-[qbit]
-interval=1
-signal=12
+#[qbit]
+#interval=1
+#signal=12
 
-#[record]
-#command=cat /tmp/recordingicon
-#interval=once
-#signal=9
+[record]
+command=cat /tmp/recordingicon
+interval=once
+signal=9
 
 #[music]
 #label=🎼
@@ -62,6 +62,10 @@ signal=10
 interval=60
 command=disk /home 🏠
 
+#[battery]
+#command=battery BAT0
+#interval=2
+
 [battery]
 command=battery BAT0
 interval=5
@@ -73,5 +77,5 @@ interval=30
 [internet]
 interval=10
 
-[help]
-interval=once
+#[help]
+#interval=once

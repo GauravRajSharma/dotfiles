@@ -2,12 +2,12 @@
 # Profile file. Runs on login.
 
 # Adds `~/.scripts` and all subdirectories to $PATH
-export PATH="$PATH:$(du "$HOME/Documents/Maintenance/dotfiles/scripts/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
-export PATH="$PATH:$HOME/Documents/programs/flutter/bin"
+export PATH="$PATH:$(du "$HOME/Documents/linux-worker/dotfiles/scripts/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
+export PATH="$PATH:$HOME/Documents/linux-worker/flutter/flutter/bin"
 export EDITOR="nvim"
 export GIT_EDITOR="nvim"
 export TERMINAL="st"
-export BROWSER="chromium"
+export BROWSER="google-chrome-stable"
 export READER="zathura"
 export FILE="ranger"
 export SUDO_ASKPASS="$HOME/.scripts/tools/dmenupass"

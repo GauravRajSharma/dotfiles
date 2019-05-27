@@ -9,7 +9,7 @@
 #
 # If there is already a running instance, user will be prompted to end it.
 
-record_directory="/mnt/disk_1/Recordings"
+record_directory="$HOME/Videos/Recordings"
 
 
 updateicon() { \

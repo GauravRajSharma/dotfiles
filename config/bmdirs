@@ -5,21 +5,28 @@ D	~/Downloads
 m	~/Music
 md	/media
 pp	~/Pictures
+vv	~/Videos
 cf	~/.config
 sc	~/.scripts
 cff	~/.config/fish
 
+
+# Xentoo shortcuts
+po	~/Documents/programming
+
+
+# Xenesis Shortcuts
 # HDD Directories
-b	/mnt/disk_2/Programming_Contents/Books
-vv	/mnt/disk_2/Videos
-ef	/mnt/disk_2/Videos/Entertainment
-wp	/mnt/disk_1/Media/Pictures/Wallpapers
-po	/mnt/disk_2/Programming_Contents/Programming/Ongoing
-mp	/mnt/disk_2/Programming_Contents/Programming/Ongoing/Spectra
-Df	/mnt/disk_1
-no	/mnt/disk_2/Programming_Contents/Programming/Notes
-std	/mnt/disk_1/Study
-rec	/mnt/disk_1/Recordings
+#b	/mnt/disk_2/Programming_Contents/Books
+#vv	/mnt/disk_2/Videos
+#ef	/mnt/disk_2/Videos/Entertainment
+#wp	/mnt/disk_1/Media/Pictures/Wallpapers
+#po	/mnt/disk_2/Programming_Contents/Programming/Ongoing
+#mp	/mnt/disk_2/Programming_Contents/Programming/Ongoing/Spectra
+#Df	/mnt/disk_1
+#no	/mnt/disk_2/Programming_Contents/Programming/Notes
+#std	/mnt/disk_1/Study
+#rec	/mnt/disk_1/Recordings
 
 # Current-Ongoing Working Directories
-stdn	/mnt/disk_1/Study/7th
+#stdn	/mnt/disk_1/Study/7th
