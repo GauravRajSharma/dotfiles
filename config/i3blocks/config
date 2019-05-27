@@ -5,6 +5,9 @@ markup=pango
 #[activewindow]
 #interval=0
 
+[speed]
+interval=1
+signal=12
 #[qbit]
 #interval=1
 #signal=12
