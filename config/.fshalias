@@ -52,6 +52,7 @@ gp	"git pull"
 gc	"git commit"
 gl	"git log"
 gs	"git status"
+gcl	"git clone"
 
 # Docker Shortcuts
 da	"docker attach"
@@ -60,15 +61,21 @@ ds	"docker start"
 di	"docker images"
 dr	"docker run"
 dk	"docker kill"
-dca	"docker container ps"
+dca	"docker container ps --filter 'status=running'"
 dcd	"docker-compose down"
-dci	"docker container ps -a"
+dci	"docker container ps --filter 'status=exited'"
 dcr	"docker container rm"
 dcu	"docker-compose up"
 dir	"docker image rm"
 dst	"docker stop"
 dvp	"docker volume prune"
 dvr	"docker volume rm"
+
+# Yarn/npm/npx Shortcuts
+yd	"yarn dev"
+
+# pipenv Shortcuts
+psh	"pipenv shell"
 
 # Custom Bindings for taskbook
 tbe	"tb -e @"

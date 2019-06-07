@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 # cat /proc/net/dev | grep --color=auto wlp60s0 | awk '{print $3":"$11":"}' | ./internet-speed.py
-
 import sys
 import pickle
 import pathlib
@@ -18,6 +17,10 @@ def sanitize(sant):
         if sant < 1:
             sant *= 1024
             index += 1
+
+    if(sant < 0 ):
+        sant = 0;
+
     try:
         return f'{sant:.2f} {speed_metrics[index]}'
     except IndexError:
@@ -39,7 +42,7 @@ for line in sys.stdin:
                 float(curr['u']) - float(old_speed['u']))
             print(f'⬇️ {dwn} ⬆️ {upld}')
     except FileNotFoundError:
-        ''' Skipping read step as interdata.pkl was not found 
+        ''' Skipping read step as interdata.pkl was not found
             Will be automatically created in the next step
         '''
         pass

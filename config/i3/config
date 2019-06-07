@@ -467,8 +467,11 @@ bindsym XF86WLAN		exec $netrefresh
 # My Commands
 # Setting Resolution
 #exec --no-startup-id xrandr -s 1920x1080
+
+# Dunst
+exec --no-startup-id pkill dunst && dunst
 # Setting color scheme
-#exec --no-startup-id wal -R
+exec --no-startup-id wal -R
 # Starting KDE-Connect
 exec --no-startup-id kdeconnect-indicator
 # Setting Wallpaper

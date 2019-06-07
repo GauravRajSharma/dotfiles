@@ -1,3 +1,16 @@
-#!/bin/sh
+#!/usr/bin/python
+from subprocess import call
+from pathlib import Path
+import pickle
 
-nmcli con up DexterWifi_wlink
+
+try:
+    with open(f'{Path.cwd}/wifi-info.pkl', 'rb'):
+        pass
+
+
+with open(f'{Path.cwd}/wifi-info.pkl', 'wb') as target:
+    pass
+
+wifi_name = "DexterWifi_wlink"
+f"nmcli con up {wifi_name}"
