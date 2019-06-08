@@ -34,7 +34,7 @@ SETUVAR _fish_abbr_ds:docker\x20start
 SETUVAR _fish_abbr_dst:docker\x20stop
 SETUVAR _fish_abbr_dvp:docker\x20volume\x20prune
 SETUVAR _fish_abbr_dvr:docker\x20volume\x20rm
-SETUVAR _fish_abbr_e:nvim
+SETUVAR _fish_abbr_e:
 SETUVAR _fish_abbr_en:cd\x20\x7e/Documents/programming/Enterprise\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_fsa:nvim\x20\x7e/\x2econfig/\x2efshalias
 SETUVAR _fish_abbr_g:git
@@ -63,7 +63,7 @@ SETUVAR _fish_abbr_rd:rm\x20\x2drf
 SETUVAR _fish_abbr_sc:cd\x20\x7e/\x2escripts\x3b\x20and\x20ls\x20\x2da
 SETUVAR _fish_abbr_sd:sudo
 SETUVAR _fish_abbr_sdn:sudo\x20shutdown\x20now
-SETUVAR _fish_abbr_se:du\x20\x2da\x20\x7e/Documents/worker/dotfiles/scripts/\x2a\x20\x7e/\x2econfig/\x2a\x20\x7c\x20awk\x20\x27\x7bprint\x20\x242\x7d\x27\x20\x7c\x20fzf\x20\x7c\x20xargs\x20\x2dr\x20nvim
+SETUVAR _fish_abbr_se:du\x20\x2da\x20\x7e/Documents/worker/dotfiles/scripts/\x2a\x20\x7e/\x2econfig/\x2a\x20\x7c\x20awk\x20\x27\x7bprint\x20\x242\x7d\x27\x20\x7c\x20fzf\x20\x7c\x20xargs\x20\x2dr\x20
 SETUVAR _fish_abbr_sv:sudo\x20nvim
 SETUVAR _fish_abbr_tba:tb\x20\x2dt
 SETUVAR _fish_abbr_tbc:tb\x20\x2dc
