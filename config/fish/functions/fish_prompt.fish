@@ -1,1 +1,1 @@
-/home/xenesis/.local/share/omf/themes/default/fish_prompt.fish
+/Users/gaurav/.local/share/omf/themes/default/fish_prompt.fish

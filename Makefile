@@ -1,5 +1,5 @@
 default: config scripts
-all: config scripts home
+all: config scripts
 
 config: .config
 	stow -R -v config

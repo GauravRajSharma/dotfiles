@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/local/bin/python3
 import os
 from pathlib import Path
 '''
@@ -24,10 +24,9 @@ def main():
 
     for key in extension_.keys():
         if not os.system("mkdir %s/%s 2>/dev/null" % (working_dir, key)):
-            print("success")
+            pass
         else:
-            print("failed")
-    os.system("notify-send \"Done\" ")
+            pass
 
     for value in extension_:
         for exts in extension_[value]["ext"]:

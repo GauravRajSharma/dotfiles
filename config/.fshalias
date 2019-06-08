@@ -2,20 +2,15 @@
 
 # Fish Abbr List
 # General Purpose Bindings
+b	"bat"
 c	"clear"
 e	"$EDITOR"
-h	"echo 'Hello world'"
-f	"fortune | lolcat"
 l	"ls"
-r	"ranger"
 v	"nvim"
-x	"sxiv -ft *"
 co	"code ."
-py	"python"
+py	"python3"
 ka	"killall"
 rd	"rm -rf"
-wc	"nmcli con up DexterWifi_wlink"
-YT	"youtube-viewer"
 ipy	"ipython"
 mkd	"mkdir -pv"
 jpn	"jupyter-notebook"
@@ -30,20 +25,8 @@ sv	"sudo nvim"
 sdn	"sudo shutdown now"
 npm	"sudo npm"
 sdn	"sudo shutdown now"
-pip	"sudo pip"
+pip	"sudo pip3"
 tlp	"sudo tlp"
-snap	"sudo snap"
-
-# pacman-yay Shortcuts
-p	"sudo pacman"
-y	"yay"
-pi	"sudo pacman -Sy"
-pr	"sudo pacman -Rns"
-yi	"yay -Sy"
-yr	"yay -Rns"
-lsp	"pacman -Qett --color=always | bat"
-lspy	"pacman -Qm --color=always | bat"
-orp	"sudo pacman -Rsun (pacman -Qqtd)"
 
 # git Shortucts
 g	"git"
@@ -90,7 +73,5 @@ tbng	"tb -n @"
 tbcc	"tb --clear"
 
 # Custom Scritps
-se	"du -a ~/Documents/Maintenance/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs -r $EDITOR" # Scripts Folder Search tool
+se	"du -a ~/Documents/worker/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs -r $EDITOR" # Scripts Folder Search tool
 vf	"xdg-open (fzf) 2>/dev/null" # Any folder Search Tool
-yt	"youtube-dl --add-metadata -i" # Youtube Video Download
-yta	"youtube-dl --add-metadata -i -x -f bestaudio/best" # Youtube Audio Only Download

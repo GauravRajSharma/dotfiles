@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sed '/^#.*$/d;/^\s*$/d' $HOME/.config/.fshalias | fzf

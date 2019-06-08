@@ -1,4 +1,0 @@
-#!/bin/sh
-[ ! -z "$1" ] && cp "$1" ~/.config/wall-lockscreen.png && notify-send -i "$HOME/.config/wall-lockscreen.png" "Lockscreen Wallpaper Changed!"
-
-cp ~/.config/wall-lockscreen.png /usr/share/backgrounds/background.png

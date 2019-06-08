@@ -5,6 +5,6 @@ rmabbr $HOME/.config/fish/alias.fish # Cleaning up the abbrs
 
 sed "s/\s*#.*$//;/^\s*$/d" "$HOME/.config/.fshalias" |
 	awk '{print "abbr " $0}' |
-	sed 's/\s/ /g' > $alias_fish 2>/dev/null
+	sed 's/[[:space:]]/ /g' > $alias_fish 2>/dev/null
 
 rsfish	# Restarting Fish

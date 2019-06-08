@@ -1,3 +1,0 @@
-#!/bin/sh
-
-man -k . | uniq | dmenu -l 15 | awk '{print $1}' | xargs man -Tpdf | zathura -
