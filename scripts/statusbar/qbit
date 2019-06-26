@@ -11,7 +11,7 @@ def get_string(progress,eta):
 def eta_time(eta):
     if ((int(eta/60.0))<100):
         if (int(eta/60.0) < 1):
-                return f'<1m'
+                return f'1m'
         return f'{int(eta/60.0)}m'
     else:
         return f'♾️'

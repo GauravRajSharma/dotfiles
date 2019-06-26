@@ -7,21 +7,20 @@ import pickle
 import pathlib
 import math
 
-
-value = ['MB/s','KB/s', 'B/s']
+speed_metrics = ['MB/s', 'KB/s', 'B/s']
 
 
 def sanitize(sant):
     index = 0
-    sant /= 1024**(len(value)-1)
-    for speed in value:
+    sant /= 1024**(len(speed_metrics)-1)
+    for speed in speed_metrics:
         if sant < 1:
             sant *= 1024
             index += 1
     try:
-        return f'{sant:.2f} {value[index]}'
+        return f'{sant:.2f} {speed_metrics[index]}'
     except IndexError:
-        return f'{sant:.3f} {value[2]}'
+        return f'{sant:.2f} {speed_metrics[-1]}'
 
 
 for line in sys.stdin:
@@ -31,13 +30,17 @@ for line in sys.stdin:
         'u': int(curr_up)
     }
 
-    with open('interdata.pkl', 'rb') as rd_pkl:
-        old_speed = pickle.load(rd_pkl)
-        dwn, upld = sanitize(
-            float(curr['d']) - float(old_speed['d'])), sanitize(
-            float(curr['u']) - float(old_speed['u']))
-        # print(f'|Speed|n|Download| {dwn:20}\n|Upload|{upld:20}')
-        print(f'⬇️ {dwn} ⬆️ {upld}')
-
+    try:
+        with open('interdata.pkl', 'rb') as rd_pkl:
+            old_speed = pickle.load(rd_pkl)
+            dwn, upld = sanitize(
+                float(curr['d']) - float(old_speed['d'])), sanitize(
+                float(curr['u']) - float(old_speed['u']))
+            print(f'⬇️ {dwn} ⬆️ {upld}')
+    except FileNotFoundError:
+        ''' Skipping read step as interdata.pkl was not found
+            Will be automatically created in the next step
+        '''
+        pass
     with open('interdata.pkl', 'wb') as wr_pkl:
         pickle.dump(curr, wr_pkl)
