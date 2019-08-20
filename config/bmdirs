@@ -7,7 +7,11 @@ cf	~/.config
 sc	~/.scripts
 cff	~/.config/fish
 
+# Work
+wrd	$WORK/Redirection
+wpg	$WORK/PaymentGateway
 
 # MAC OS
 po	~/Documents/programming
 en	~/Documents/programming/Enterprise
+xen	/Volumes/xen

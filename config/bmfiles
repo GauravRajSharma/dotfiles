@@ -3,6 +3,7 @@ bf	~/.config/bmfiles
 bd	~/.config/bmdirs
 cfb	~/.bashrc
 cfp	~/.profile
-cfv	~/.vimrc
+cfv	~/.config/nvim/init.vim
 cfz	~/.zshrc
+cfs	~/.config/fish/settings.fish
 fsa	~/.config/.fshalias
