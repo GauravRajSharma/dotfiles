@@ -1,4 +1,15 @@
 # vim: filetype=conf
+# Go Shortcuts
+vga	"vg activate"
+vgd	"vg deactivate"
+vgi	"vg init"
+
+# Work Shortcuts
+
+syncpay	"rsync -zavP  --exclude-from='./PaymentGateway/exclude.txt' -e 'ssh -p 4580' PaymentGateway/ merolagani@103.198.9.221:/home/merolagani/PaymentGateway/"
+syncrd	"rsync -zavP  --exclude-from='./Redirection/exclude.txt' -e 'ssh -p 4580' Redirection/ merolagani@103.198.9.221:/home/merolagani/urlshortener/"
+syncsms	"rsync -zavP  --exclude-from='./SMSMerolagani/exclude.txt' -e 'ssh -p 4580' SMSMerolagani/ merolagani@103.198.9.221:/home/merolagani/SMSMerolagani/"
+sshmrln	"ssh -p 4580 merolagani@103.198.9.221"
 
 # Fish Abbr List
 # General Purpose Bindings
@@ -24,18 +35,31 @@ SS	"sudo systemctl"
 sv	"sudo nvim"
 sdn	"sudo shutdown now"
 npm	"sudo npm"
-sdn	"sudo shutdown now"
 pip	"sudo pip3"
 tlp	"sudo tlp"
+
+# Web shortcuts
+yd	"yarn dev"
+
+# GO
+gi	"go install ."
+gr	"go run ."
+gb	"go build -o bin/app ."
+gbr	"go build -o bin/app . && ./bin/app"
+
+# Silly Commands
+:q	"exit"
 
 # git Shortucts
 g	"git"
 ga	"git add"
 gp	"git pull"
 gc	"git commit"
+gd	"git diff"
 gl	"git log"
 gs	"git status"
 gps	"git push"
+lg	"lazygit"
 
 # Docker Shortcuts
 da	"docker attach"
@@ -55,10 +79,11 @@ dir	"docker image rm"
 dst	"docker stop"
 dvp	"docker volume prune"
 dvr	"docker volume rm"
+drr	"docker run --rm"
 
 # Pipenv Shortcuts
-pipsh	"pipenv shell"
-pipi	"pipenv install"
+psh	"pipenv shell"
+pi	"pipenv install"
 
 # Custom Bindings for taskbook
 tbe	"tb -e @"
@@ -73,5 +98,8 @@ tbng	"tb -n @"
 tbcc	"tb --clear"
 
 # Custom Scritps
-se	"du -a ~/Documents/worker/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs -r $EDITOR" # Scripts Folder Search tool
+se	"du -a ~/Documents/worker/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs nvim" Scripts Folder Search tool
 vf	"xdg-open (fzf) 2>/dev/null" # Any folder Search Tool
+
+# SSH Passwords
+mrln	"echo 'Mer0!@g@n!' | pbcopy"
