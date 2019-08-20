@@ -19,7 +19,10 @@ def main():
         },
         "Compressed": {
             "ext": ["gz", "xz", "tar", "deb", "zip"]
-        }
+        },
+        "Misc":{
+            "ext":[]
+            }
     }
 
     for key in extension_.keys():
