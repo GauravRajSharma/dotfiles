@@ -13,4 +13,5 @@ set PATH $PATH $HOME/.yarn/bin $HOME/.config/yarn/global/node_modules/.bin
 set PATH $PATH $HOME/go/bin
 
 export GOPATH=$HOME/Documents/programming/Go
+export GOBIN=$HOME/Documents/programming/Go/bin
 set PATH $PATH $HOME/Documents/programming/Go/bin
