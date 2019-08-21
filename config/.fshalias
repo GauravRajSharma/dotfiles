@@ -42,10 +42,10 @@ tlp	"sudo tlp"
 yd	"yarn dev"
 
 # GO
-gi	"go install ."
+gi	"go install"
 gr	"go run ."
-gb	"go build -o bin/app ."
-gbr	"go build -o bin/app . && ./bin/app"
+gb	"go build."
+godelete "rm $GOPATH/bin/"
 
 # Silly Commands
 :q	"exit"
