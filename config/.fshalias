@@ -1,16 +1,4 @@
 # vim: filetype=conf
-# Go Shortcuts
-vga	"vg activate"
-vgd	"vg deactivate"
-vgi	"vg init"
-
-# Work Shortcuts
-
-syncpay	"rsync -zavP  --exclude-from='./PaymentGateway/exclude.txt' -e 'ssh -p 4580' PaymentGateway/ merolagani@103.198.9.221:/home/merolagani/PaymentGateway/"
-syncrd	"rsync -zavP  --exclude-from='./Redirection/exclude.txt' -e 'ssh -p 4580' Redirection/ merolagani@103.198.9.221:/home/merolagani/urlshortener/"
-syncsms	"rsync -zavP  --exclude-from='./SMSMerolagani/exclude.txt' -e 'ssh -p 4580' SMSMerolagani/ merolagani@103.198.9.221:/home/merolagani/SMSMerolagani/"
-sshmrln	"ssh -p 4580 merolagani@103.198.9.221"
-
 # Fish Abbr List
 # General Purpose Bindings
 b	"bat"
@@ -38,17 +26,35 @@ npm	"sudo npm"
 pip	"sudo pip3"
 tlp	"sudo tlp"
 
+# JetBrains Shortucts
+web 	"webstorm ."
+chr 	"charm ."
+gld 	"goland ."
+
+# Django Shortcuts
+pms     "python manage.py shell_plus"
+pmr     "python manage.py runserver_plus"
+pmk     "python manage.py makemigrations"
+pmc     "python manage.py createsuperuser"
+pm      "python manage.py migrate"
+pmrd    "python manage.py reset_db"
+
+
+
 # Web shortcuts
 yd	"yarn dev"
+yb 	"yarn build"
+ys 	"yarn start"
 
 # GO
 gi	"go install"
 gr	"go run ."
-gb	"go build."
+gb	"go build ."
 godelete "rm $GOPATH/bin/"
 
 # Silly Commands
 :q	"exit"
+kp	"kill (lsof -t -i:)"
 
 # git Shortucts
 g	"git"
@@ -59,6 +65,8 @@ gd	"git diff"
 gl	"git log"
 gs	"git status"
 gps	"git push"
+gch 	"git checkout"
+gbr 	"git branch"
 lg	"lazygit"
 
 # Docker Shortcuts
@@ -68,9 +76,10 @@ ds	"docker start"
 di	"docker images"
 dr	"docker run"
 dk	"docker kill"
-dca	"docker container ps --filter 'status=running'"
+dca	"docker container ps --filter 'status=running' --format='table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Ports}}'"
+dcs 	"docker-compose stop"
 dcd	"docker-compose down"
-dci	"docker container ps --filter 'status=exited'"
+dci	"docker container ps --filter 'status=exited' --format='table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Ports}}'"
 dcp	"docker container prune"
 dcr	"docker container rm"
 dcp	"docker container prune"
@@ -80,6 +89,7 @@ dst	"docker stop"
 dvp	"docker volume prune"
 dvr	"docker volume rm"
 drr	"docker run --rm"
+ld 	"lazydocker"
 
 # Pipenv Shortcuts
 psh	"pipenv shell"
@@ -101,5 +111,22 @@ tbcc	"tb --clear"
 se	"du -a ~/Documents/worker/dotfiles/scripts/* ~/.config/* | awk '{print \$2}' | fzf | xargs nvim" Scripts Folder Search tool
 vf	"xdg-open (fzf) 2>/dev/null" # Any folder Search Tool
 
+
 # SSH Passwords
-mrln	"echo 'Mer0!@g@n!' | pbcopy"
+srpay	"echo 'Mer0!@g@n!' | pbcopy"
+sr246   "echo 'Mer0!@g@N!_730' | pbcopy"
+
+
+# Go Shortcuts
+vga	"vg activate"
+vgd	"vg deactivate"
+vgi	"vg init"
+
+# Work Shortcuts
+
+syncpay	"rsync -zavP  --exclude-from='./PaymentGateway/exclude.txt' -e 'ssh -p 4580' PaymentGateway/ merolagani@103.198.9.221:/home/merolagani/PaymentGateway/"
+syncrd	"rsync -zavP  --exclude-from='./Redirection/exclude.txt' -e 'ssh -p 4580' Redirection/ merolagani@103.198.9.221:/home/merolagani/urlshortener/"
+syncsms	"rsync -zavP  --exclude-from='./SMSMerolagani/exclude.txt' -e 'ssh -p 4580' SMSMerolagani/ merolagani@103.198.9.221:/home/merolagani/SMSMerolagani/"
+sshmrln	"ssh -p 4580 merolagani@103.198.9.221"
+
+
